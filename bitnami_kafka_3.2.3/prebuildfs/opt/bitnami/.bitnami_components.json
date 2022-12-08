@@ -1,0 +1,37 @@
+{
+    "gosu": {
+        "arch": "amd64",
+        "digest": "7969f4cc8ad0a260f891cccf5694686a513f4706b48771d605645be1f3f072e2",
+        "distro": "debian-11",
+        "type": "NAMI",
+        "version": "1.14.0-156"
+    },
+    "java": {
+        "arch": "amd64",
+        "digest": "e2e6c8abc916f52a57d4af507b87da59ac3ae5cc0b1e8ea0f12756ebc90be8f5",
+        "distro": "debian-11",
+        "type": "NAMI",
+        "version": "11.0.17-7-2"
+    },
+    "kafka": {
+        "arch": "amd64",
+        "digest": "d58873f0ce719a53af5b1b2dab2533f17810493b5af30039131f4fd52a2fd577",
+        "distro": "debian-11",
+        "type": "NAMI",
+        "version": "3.2.3-1"
+    },
+    "render-template": {
+        "arch": "amd64",
+        "digest": "045804695ee2c857d91f28ba623f8c5f6898f5ae9016ee78504d3af76411c261",
+        "distro": "debian-11",
+        "type": "NAMI",
+        "version": "1.0.4-1"
+    },
+    "wait-for-port": {
+        "arch": "amd64",
+        "digest": "6b1bd6f534ef27b696922dcbdc0e377ac1a7db1e2bc1ff688ae0fa80bbfcb618",
+        "distro": "debian-11",
+        "type": "NAMI",
+        "version": "1.0.5-1"
+    }
+}
