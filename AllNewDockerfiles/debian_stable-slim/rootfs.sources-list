@@ -1,0 +1,6 @@
+# deb http://snapshot.debian.org/archive/debian/20230208T130000Z stable main
+deb http://deb.debian.org/debian stable main
+# deb http://snapshot.debian.org/archive/debian-security/20230208T130000Z stable-security main
+deb http://deb.debian.org/debian-security stable-security main
+# deb http://snapshot.debian.org/archive/debian/20230208T130000Z stable-updates main
+deb http://deb.debian.org/debian stable-updates main
