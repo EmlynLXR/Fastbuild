@@ -1,0 +1,173 @@
+allen@allen-MS-7B53:~/Desktop/fastbuild$ ./test.sh 
+202.114.6.221
+bitnami_kafka_3.3.1
+[INFO]Clean all docker images before test ...
+[INFO]Start  bitnami_kafka_3.3.1 - 1  default test ...
+
+real	1m27.988s
+user	0m0.014s
+sys	0m0.030s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , default =  391343532
+sha256:db80a8b566ce64a56133acdd100836014d59c0d4c185408249940b0be9ec8f17
+[INFO]Clean all docker images before test ...
+[INFO]Start  bitnami_kafka_3.3.1 - 1  cached test ...
+
+real	1m3.402s
+user	0m0.023s
+sys	0m0.033s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , cached =  56768966
+sha256:edd3be9c84b6dabb0470ac48070a17def7122eec53535ceecb3ed4ca08d7299b
+bitnami_spark_latest
+[INFO]Clean all docker images before test ...
+[INFO]Start  bitnami_spark_latest - 1  default test ...
+
+real	5m58.262s
+user	0m0.017s
+sys	0m0.088s
+[INFO]Test  bitnami_spark_latest - 1 , default =  815522898
+sha256:11a12545f68f12cee7a91d69b9a32ebb603d8647627aa9451bf89ad6e0cb7a2a
+[INFO]Clean all docker images before test ...
+[INFO]Start  bitnami_spark_latest - 1  cached test ...
+
+real	6m12.640s
+user	0m0.066s
+sys	0m0.056s
+[INFO]Test  bitnami_spark_latest - 1 , cached =  56792165
+sha256:2df0a5df8fd724804c4c818feadcce2d656eaf34e3b08486ad75ee4e0fe03284
+debian_11.5
+[INFO]Clean all docker images before test ...
+[INFO]Start  debian_11.5 - 1  default test ...
+
+real	0m11.263s
+user	0m0.083s
+sys	0m0.079s
+[INFO]Test  debian_11.5 - 1 , default =  6418
+sha256:cb26d7ce84d577822d3d0e2050a067ae264f40f6b4e093a58637eb3e48da6300
+[INFO]Clean all docker images before test ...
+[INFO]Start  debian_11.5 - 1  cached test ...
+
+real	0m15.099s
+user	0m0.059s
+sys	0m0.068s
+[INFO]Test  debian_11.5 - 1 , cached =  492
+sha256:0ac62b6de44f16b0387e78589045e4dc7b214b76b81ab44dae80a45a5be3c5f5
+flink_latest
+[INFO]Clean all docker images before test ...
+[INFO]Start  flink_latest - 1  default test ...
+
+real	60m39.406s
+user	0m0.229s
+sys	0m0.347s
+[INFO]Test  flink_latest - 1 , default =  625842761
+sha256:24a59565a0db7cd10c0067aed1a224ee784dc2b46806a41eb919a4a925495911
+[INFO]Clean all docker images before test ...
+[INFO]Start  flink_latest - 1  cached test ...
+
+real	1m27.723s
+user	0m0.015s
+sys	0m0.033s
+[INFO]Test  flink_latest - 1 , cached =  120800617
+sha256:5c66dd2c1cfb22b123254090890c6fe00079a89c945e97ed68f7945ea9790145
+nginx_latest
+[INFO]Clean all docker images before test ...
+[INFO]Start  nginx_latest - 1  default test ...
+
+real	1m1.404s
+user	0m0.015s
+sys	0m0.039s
+[INFO]Test  nginx_latest - 1 , default =  73662760
+sha256:59fe41e0698a4da260ec9e2c0865141aa1eac0fcd92bdf0688ed5e34c4379d27
+[INFO]Clean all docker images before test ...
+[INFO]Start  nginx_latest - 1  cached test ...
+
+real	0m48.987s
+user	0m0.024s
+sys	0m0.026s
+[INFO]Test  nginx_latest - 1 , cached =  51101261
+sha256:f9f87f141875a7e93c59d48509b992931e5c59ea9e1f761cb2ad85075dea5582
+openjdk_oraclelinux8
+[INFO]Clean all docker images before test ...
+[INFO]Start  openjdk_oraclelinux8 - 1  default test ...
+
+real	1m36.869s
+user	0m0.014s
+sys	0m0.040s
+[INFO]Test  openjdk_oraclelinux8 - 1 , default =  358924753
+sha256:8976cbe3c24b2fac377e9ee33a48f7cfb1290e131fa39c4350cd2dab08a1bfb7
+[INFO]Clean all docker images before test ...
+[INFO]Start  openjdk_oraclelinux8 - 1  cached test ...
+
+real	0m53.795s
+user	0m0.018s
+sys	0m0.032s
+[INFO]Test  openjdk_oraclelinux8 - 1 , cached =  46807919
+sha256:243ebadb3fae752695fe5acd2cf6054033a29e181054e294d51b2199608a0ccf
+redis_7.0.5
+[INFO]Clean all docker images before test ...
+[INFO]Start  redis_7.0.5 - 1  default test ...
+
+real	1m57.281s
+user	0m0.031s
+sys	0m0.050s
+[INFO]Test  redis_7.0.5 - 1 , default =  133123586
+sha256:79647ca8ed8e43f3fb86c5d21f69a649381ede70e69b3a4c9f3174a7d8fae22f
+[INFO]Clean all docker images before test ...
+[INFO]Start  redis_7.0.5 - 1  cached test ...
+
+real	1m40.139s
+user	0m0.020s
+sys	0m0.035s
+[INFO]Test  redis_7.0.5 - 1 , cached =  51170365
+sha256:e4d2129e9401bfa70c3b33cad14ddbac53805a26cca6f1f20eb763f13f7c9f49
+storm_latest
+[INFO]Clean all docker images before test ...
+[INFO]Start  storm_latest - 1  default test ...
+
+real	1m45.057s
+user	0m0.025s
+sys	0m0.027s
+[INFO]Test  storm_latest - 1 , default =  466750483
+sha256:9a365ce2a3ab379d35d94b54ee7a38a5ec39f6d2d2cd27c83d59fc5324f0684b
+[INFO]Clean all docker images before test ...
+[INFO]Start  storm_latest - 1  cached test ...
+
+real	1m24.719s
+user	0m0.030s
+sys	0m0.027s
+[INFO]Test  storm_latest - 1 , cached =  120654180
+sha256:fc331708941795a448984d4941a5b31db38fea82acac63f8189c2e6fa602ee30
+ubuntu_22.10
+[INFO]Clean all docker images before test ...
+[INFO]Start  ubuntu_22.10 - 1  default test ...
+
+real	0m5.027s
+user	0m0.042s
+sys	0m0.042s
+[INFO]Test  ubuntu_22.10 - 1 , default =  460
+sha256:e3f4a3fa059748499103163531ed0cd467b2f9369076bbb993902596dabece57
+[INFO]Clean all docker images before test ...
+[INFO]Start  ubuntu_22.10 - 1  cached test ...
+
+real	0m4.753s
+user	0m0.031s
+sys	0m0.050s
+[INFO]Test  ubuntu_22.10 - 1 , cached =  164
+sha256:b893875b2d04d36c33f203c8f4acc7d7ec387fc4fa95e8f6211027a3a4157220
+zookeeper_latest
+[INFO]Clean all docker images before test ...
+[INFO]Start  zookeeper_latest - 1  default test ...
+
+real	1m2.132s
+user	0m0.027s
+sys	0m0.025s
+[INFO]Test  zookeeper_latest - 1 , default =  138718208
+sha256:c5b24ef4c7659db3b18b174703ffa017cff0c401876ddca1b9e8e76b459c8002
+[INFO]Clean all docker images before test ...
+[INFO]Start  zookeeper_latest - 1  cached test ...
+
+real	0m58.394s
+user	0m0.016s
+sys	0m0.037s
+[INFO]Test  zookeeper_latest - 1 , cached =  120650930
+sha256:bbdee79925af3858cf40d0cb2a90ab9a19e5668769874150f7541072c6831e27
+

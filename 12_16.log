@@ -1,0 +1,112 @@
+Script started on 2022-12-16 10:53:04+0800
+]0;allen@allen-MS-7B53: ~/Desktop/fastbuild[01;32mallen@allen-MS-7B53[00m:[01;34m~/Desktop/fastbuild[00m$ bash test_quiet.sh 
+202.114.6.190
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_kafka_3.2.3  ...
+
+real	1m4.686s
+user	0m0.041s
+sys	0m0.028s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 1  default test ...
+
+real	1m26.004s
+user	0m0.020s
+sys	0m0.018s
+[INFO]Test  bitnami_kafka_3.2.3 - 1 , default =  358196783
+sha256:83a5b95891f84dc5955cfcafdaa440790be13ad0529a1f62f5e37ebc72a48e42
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 1  cached test ...
+
+real	0m51.376s
+user	0m0.029s
+sys	0m0.008s
+[INFO]Test  bitnami_kafka_3.2.3 - 1 , cached =  24589680
+sha256:f452f37da12cb6946b79c0418340b0704e9425ac42634a33eac032b1efe920ca
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_kafka_3.3.1  ...
+
+real	0m57.601s
+user	0m0.030s
+sys	0m0.010s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 1  default test ...
+
+real	1m16.010s
+user	0m0.013s
+sys	0m0.024s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , default =  358876932
+sha256:3cddd5b20114dfd60b03a0396f4134b7fafb01aa03326aa9d8d2ddd7b2bcb307
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 1  cached test ...
+
+real	0m46.653s
+user	0m0.019s
+sys	0m0.018s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , cached =  24588835
+sha256:801f3eff709d035d2a099cd9f159ddb20b5b4d48e790b639d9513f1c2775afa8
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_spark_3.2.2  ...
+
+real	3m26.275s
+user	0m0.035s
+sys	0m0.042s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 1  default test ...
+
+real	4m56.022s
+user	0m0.056s
+sys	0m0.048s
+[INFO]Test  bitnami_spark_3.2.2 - 1 , default =  753062611
+sha256:1af4b43fd8dc2549c47aa1c1d2529fa90ab08b5034d487df5cf38dee5c1ff119
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 1  cached test ...
+
+real	3m52.166s
+user	0m0.035s
+sys	0m0.024s
+[INFO]Test  bitnami_spark_3.2.2 - 1 , cached =  24597500
+sha256:214905e136513fda0513c6bcae85c2e00ed03f7654dcb130f1249160f9a255ae
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_spark_3.2.3  ...
+
+real	4m7.102s
+user	0m0.055s
+sys	0m0.009s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 1  default test ...
+
+real	5m16.478s
+user	0m0.040s
+sys	0m0.035s
+[INFO]Test  bitnami_spark_3.2.3 - 1 , default =  753665738
+sha256:4a37f068a52b9115410e56e6e1f0906579c52a7f8289a53fed57fe617f0966c8
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 1  cached test ...
+
+real	4m28.797s
+user	0m0.088s
+sys	0m0.015s
+[INFO]Test  bitnami_spark_3.2.3 - 1 , cached =  36356332
+sha256:2c97074b12412bc62d4b312627f5b007cb7587d81949f2639b629414ce20b64a
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_spark_latest  ...
+
+real	4m28.156s
+user	0m0.043s
+sys	0m0.057s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 1  default test ...
+
+real	5m35.841s
+user	0m0.059s
+sys	0m0.032s
+[INFO]Test  bitnami_spark_latest - 1 , default =  783508955
+sha256:d8d055573ec4beb60d8c43fb1f91387a37cd889ffda48cace5de37592be0efbe
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 1  cached test ...
+^C
+]0;allen@allen-MS-7B53: ~/Desktop/fastbuild[01;32mallen@allen-MS-7B53[00m:[01;34m~/Desktop/fastbuild[00m$ exit
+exit
+
+Script done on 2022-12-16 11:39:02+0800

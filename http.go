@@ -45,7 +45,8 @@ var (
 	hostMacAddr net.HardwareAddr
 	sigs chan os.Signal
 	done chan bool
-	fileType  = []string{".deb",".gz",".apk",".tar",".asc",".tgz",".sha256",".x86_64",".noarch",".xml",".rpm"}
+	fileType  = []string{".deb",".gz",".apk",".tar",".tgz",".sha256",".x86_64",".noarch",".xml",".rpm"}
+	// ,".asc"
 )
 
 func TimestampToTime(ts string) (time.Time) {
@@ -158,11 +159,11 @@ func getFilename(str string) (string){
 		return filename
 	}
 
-	// if strings.Contains(str, "/by-hash/SHA256/"){
-	// 	slices := SplitString(str, []rune{'&','=','/'})
-	// 	filename := slices[len(slices)-1] + "_sha256"
-	// 	return filename,true
-	// }
+	if strings.Contains(str, "/by-hash/SHA256/"){
+		slices := SplitString(str, []rune{'&','=','/'})
+		filename := slices[len(slices)-1] + "_sha256"
+		return filename
+	}
 	return ""
 }
 
@@ -275,7 +276,7 @@ func checkLocal(urlReq string)(int, string, string){
 }
 
 func httpDefault(writer http.ResponseWriter, request *http.Request) {	
-	//fmt.Println("[",time.Now(),"]Receive a http request, ",request.URL.String())
+	// fmt.Println("[",time.Now(),"]Receive a http request, ",request.URL.String())
 	if request.Method != "GET"{
 		fmt.Println("[",time.Now(),"]Receive a non-GET http request, ",request.URL.String())
 		return

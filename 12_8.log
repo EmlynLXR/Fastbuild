@@ -1,0 +1,3200 @@
+allen@allen-MS-7B53:~/Desktop/fastbuild$ bash test_all.sh 5
+202.114.6.190
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_kafka_3.2.3  ...
+
+real	1m20.769s
+user	0m0.016s
+sys	0m0.022s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 1  default test ...
+
+real	1m15.430s
+user	0m0.015s
+sys	0m0.024s
+[INFO]Test  bitnami_kafka_3.2.3 - 1 , default =  357755844
+sha256:3d9fdcdafecb62f4d50f45cb873ad0a01f40843de47d8a34e31f1ca1b91886e2
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 2  default test ...
+
+real	1m15.259s
+user	0m0.023s
+sys	0m0.014s
+[INFO]Test  bitnami_kafka_3.2.3 - 2 , default =  357750738
+sha256:4c3f546692429de1a36ad6c9de68d9e2bd7eb1c31692d5976cc625e0fd6530f2
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 3  default test ...
+
+real	1m30.111s
+user	0m0.027s
+sys	0m0.013s
+[INFO]Test  bitnami_kafka_3.2.3 - 3 , default =  359445591
+sha256:438c23a9579a0f4e043be7f59e874c28f97819fd4f8f9d029944c66c51bfcc38
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 4  default test ...
+
+real	1m14.741s
+user	0m0.016s
+sys	0m0.018s
+[INFO]Test  bitnami_kafka_3.2.3 - 4 , default =  358774044
+sha256:44ac0b40818e9c8c81122c822180ccce5d8dc51dfac51f710b1681bb1f4def02
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 5  default test ...
+
+real	1m17.726s
+user	0m0.025s
+sys	0m0.014s
+[INFO]Test  bitnami_kafka_3.2.3 - 5 , default =  357842187
+sha256:336462acee9cc9663c26c38cad06f17bf1f780519e972278b80b543201d2a4d4
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 1  cached test ...
+
+real	0m43.571s
+user	0m0.024s
+sys	0m0.012s
+[INFO]Test  bitnami_kafka_3.2.3 - 1 , cached =  24589045
+sha256:4ba08da4fd9a2157ac3ccfe4d3b02ec49f68fb3e7e727281c840af1529271e2c
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 2  cached test ...
+
+real	0m43.621s
+user	0m0.014s
+sys	0m0.023s
+[INFO]Test  bitnami_kafka_3.2.3 - 2 , cached =  24587703
+sha256:0f55d55124442d458cb8b25adb4e9e4ea53beab5adc8c37a15eb8632bbc9190b
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 3  cached test ...
+
+real	0m47.821s
+user	0m0.022s
+sys	0m0.014s
+[INFO]Test  bitnami_kafka_3.2.3 - 3 , cached =  24589022
+sha256:8b0c625ee9c53b2e85309c9aa4e31d987406279885a81036d37d1e443d61574d
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 4  cached test ...
+
+real	0m46.068s
+user	0m0.023s
+sys	0m0.014s
+[INFO]Test  bitnami_kafka_3.2.3 - 4 , cached =  24587197
+sha256:02a2801489ee4873a76f997a5ea97e26d157dad07d123cf1a8eda362aaa5e52e
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 5  cached test ...
+
+real	0m46.746s
+user	0m0.023s
+sys	0m0.014s
+[INFO]Test  bitnami_kafka_3.2.3 - 5 , cached =  24585385
+sha256:eb580262d630805b945ed4208e75733b12e9e69966ab570538a58d58add60cf3
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_kafka_3.3.1  ...
+
+real	1m10.754s
+user	0m0.049s
+sys	0m0.047s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 1  default test ...
+
+real	1m39.747s
+user	0m0.017s
+sys	0m0.021s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , default =  360727924
+sha256:7a20c15acb4335ce0e1eae2923401f0a50188eb1488d36a2e5177027ab6768fd
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 2  default test ...
+
+real	1m21.127s
+user	0m0.021s
+sys	0m0.017s
+[INFO]Test  bitnami_kafka_3.3.1 - 2 , default =  360346165
+sha256:cd136dd0f69eb3813c0c2843a2cebc7188ecc6ae15bce258c2209e4d736436fc
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 3  default test ...
+
+real	1m21.853s
+user	0m0.026s
+sys	0m0.014s
+[INFO]Test  bitnami_kafka_3.3.1 - 3 , default =  359189700
+sha256:fa5997c059be81953293d6bcb54c3199f337a9a0482e4bf1b3fac04d7523e3b6
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 4  default test ...
+
+real	1m12.607s
+user	0m0.016s
+sys	0m0.022s
+[INFO]Test  bitnami_kafka_3.3.1 - 4 , default =  358910707
+sha256:fa5ded6640042506d394e7c5a2035d0c9d72a0d486ed2b31c1dc953195ceaca0
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 5  default test ...
+
+real	1m19.203s
+user	0m0.011s
+sys	0m0.027s
+[INFO]Test  bitnami_kafka_3.3.1 - 5 , default =  359123822
+sha256:6ec975d7f699320a9708e97908bf82221972e76d929265004b6fff82e79cd273
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 1  cached test ...
+
+real	0m43.509s
+user	0m0.027s
+sys	0m0.011s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , cached =  24587956
+sha256:9f8d43ed20c74ae0afd83f5a6435f0380f37eac31034ab7ad2e01ecd010aa654
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 2  cached test ...
+
+real	0m46.639s
+user	0m0.018s
+sys	0m0.019s
+[INFO]Test  bitnami_kafka_3.3.1 - 2 , cached =  24586593
+sha256:ac4536469cb063ee1c50a77a4664a67f6d27234faa8147e54ccd9d64f2dc68f0
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 3  cached test ...
+
+real	0m47.577s
+user	0m0.021s
+sys	0m0.016s
+[INFO]Test  bitnami_kafka_3.3.1 - 3 , cached =  24585436
+sha256:2d4550ff7d32b15ccd65d5670df2d66a4747ac23b28114e6c3ee1619255f62a4
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 4  cached test ...
+
+real	0m45.295s
+user	0m0.018s
+sys	0m0.017s
+[INFO]Test  bitnami_kafka_3.3.1 - 4 , cached =  24586097
+sha256:5dced283f54a3542ba3bac26a94f8bd1756f1c0c2e13696806e4acf022e20ae0
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 5  cached test ...
+
+real	0m46.322s
+user	0m0.025s
+sys	0m0.014s
+[INFO]Test  bitnami_kafka_3.3.1 - 5 , cached =  24586582
+sha256:2d7a53dbaceebd9a9232e02fcc3aafedc96fe6b0f258ecb8461caf68756c39cb
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_spark_3.2.2  ...
+
+real	5m58.241s
+user	0m0.075s
+sys	0m0.055s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 1  default test ...
+
+real	5m57.736s
+user	0m0.044s
+sys	0m0.050s
+[INFO]Test  bitnami_spark_3.2.2 - 1 , default =  757785540
+sha256:7fe68669b7844ed2e31b43a2b6e4719032dab48f6a3c355d670e237b7f25da80
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 2  default test ...
+
+real	4m34.173s
+user	0m0.056s
+sys	0m0.031s
+[INFO]Test  bitnami_spark_3.2.2 - 2 , default =  754637011
+sha256:ae6973ffb6c932ee6a0c12bf43ec3e880cb0a6b9007da1835c3c24d328f564ed
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 3  default test ...
+
+real	5m25.226s
+user	0m0.039s
+sys	0m0.034s
+[INFO]Test  bitnami_spark_3.2.2 - 3 , default =  756797598
+sha256:501a87924c5615157df85299749b78e92b74ddeff84332062ddd4fde62cd6fbc
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 4  default test ...
+
+real	4m47.481s
+user	0m0.043s
+sys	0m0.047s
+[INFO]Test  bitnami_spark_3.2.2 - 4 , default =  755591480
+sha256:f16649dd2b25b9e28a61d918e0a9b65e21bc76f57c07b02136711bee103c8570
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 5  default test ...
+
+real	4m57.564s
+user	0m0.030s
+sys	0m0.032s
+[INFO]Test  bitnami_spark_3.2.2 - 5 , default =  755340931
+sha256:981d1c049cbf6989bf0d938ceec05988e603475a74dd374929afa86ec00c66df
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 1  cached test ...
+
+real	4m45.408s
+user	0m0.043s
+sys	0m0.046s
+[INFO]Test  bitnami_spark_3.2.2 - 1 , cached =  24601686
+sha256:0f6dead444eab1e1a5c0aad440d5f1bc9fc7372e9168acf25cdd312cd382ec0a
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 2  cached test ...
+
+real	4m20.007s
+user	0m0.061s
+sys	0m0.024s
+[INFO]Test  bitnami_spark_3.2.2 - 2 , cached =  24598339
+sha256:d5bc0f469db5aaced3aada843691106976e85ae95fd5a098d8531a748eec4104
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 3  cached test ...
+
+real	4m18.401s
+user	0m0.047s
+sys	0m0.031s
+[INFO]Test  bitnami_spark_3.2.2 - 3 , cached =  24596409
+sha256:1e621ddf69f3de6a645aa815ca5764a09b95858840d916c96e3b1668d313f49a
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 4  cached test ...
+
+real	4m15.229s
+user	0m0.055s
+sys	0m0.020s
+[INFO]Test  bitnami_spark_3.2.2 - 4 , cached =  24268278
+sha256:0a50bde5845ef251652b678ba947c5d53f7fb3162cd823942ea405395cfc69bb
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 5  cached test ...
+
+real	4m28.994s
+user	0m0.057s
+sys	0m0.027s
+[INFO]Test  bitnami_spark_3.2.2 - 5 , cached =  24277738
+sha256:8105c6089003df00df05cffcb16a5605fbb888166b32bd3c327cde568a43ae60
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_spark_3.2.3  ...
+
+real	6m0.453s
+user	0m0.073s
+sys	0m0.023s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 1  default test ...
+
+real	5m51.992s
+user	0m0.062s
+sys	0m0.038s
+[INFO]Test  bitnami_spark_3.2.3 - 1 , default =  758682465
+sha256:e06fe1a2a1520ecef9dbf671aba8126a1706f1ed0ad1821aad26e58fd436094e
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 2  default test ...
+
+real	5m46.455s
+user	0m0.070s
+sys	0m0.043s
+[INFO]Test  bitnami_spark_3.2.3 - 2 , default =  756301152
+sha256:8de7c45b368c51d74dedd67673bc4c3ee951ca2f70191c97a3c578960caeabd8
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 3  default test ...
+
+real	5m42.344s
+user	0m0.063s
+sys	0m0.026s
+[INFO]Test  bitnami_spark_3.2.3 - 3 , default =  756839385
+sha256:348857f8536bfa28510da590d23bb21da18248f06158c3e313d20dcb0c805f98
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 4  default test ...
+
+real	5m37.898s
+user	0m0.088s
+sys	0m0.033s
+[INFO]Test  bitnami_spark_3.2.3 - 4 , default =  755283175
+sha256:f291b0087dd7dc4352669a57c28053ef49ec61b3c4be9e20a4b6b2b537bc4c43
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 5  default test ...
+
+real	5m24.114s
+user	0m0.079s
+sys	0m0.037s
+[INFO]Test  bitnami_spark_3.2.3 - 5 , default =  758440776
+sha256:0260affce29e10018642c7724867b5b92850b4f2c248cf7b88975eebf04157e4
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 1  cached test ...
+
+real	4m56.092s
+user	0m0.063s
+sys	0m0.029s
+[INFO]Test  bitnami_spark_3.2.3 - 1 , cached =  24265342
+sha256:de9ad2d5d4898e3c10fba629850e6468db9dd2251a49fac8a0867ec8485101d3
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 2  cached test ...
+
+real	4m50.446s
+user	0m0.065s
+sys	0m0.034s
+[INFO]Test  bitnami_spark_3.2.3 - 2 , cached =  24265798
+sha256:38ade1dd75240a2e46e48367e106c6f2fa351b93f3e6f124836d2a5766043e4a
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 3  cached test ...
+
+real	4m53.771s
+user	0m0.058s
+sys	0m0.020s
+[INFO]Test  bitnami_spark_3.2.3 - 3 , cached =  24259703
+sha256:82423add92969e9a38ba586de97ee879410800e40436b24a17bb85bf0dce6b60
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 4  cached test ...
+
+real	5m5.021s
+user	0m0.060s
+sys	0m0.029s
+[INFO]Test  bitnami_spark_3.2.3 - 4 , cached =  24268338
+sha256:ed094cbc6ad46189ce032e30913a624645ff48291a4676c63a7136c0216279a4
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 5  cached test ...
+
+real	5m1.143s
+user	0m0.043s
+sys	0m0.041s
+[INFO]Test  bitnami_spark_3.2.3 - 5 , cached =  24257777
+sha256:ab0cb8909f31b9f61765a692aed3a3761c90ce6d8d81e21d867771347930ded6
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_spark_latest  ...
+
+real	6m21.670s
+user	0m0.044s
+sys	0m0.069s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 1  default test ...
+
+real	5m7.183s
+user	0m0.042s
+sys	0m0.046s
+[INFO]Test  bitnami_spark_latest - 1 , default =  785291724
+sha256:605c70a6aef442c63205dad841c877e513ecc09cfdb33524cca32196b8215f37
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 2  default test ...
+
+real	5m3.503s
+user	0m0.067s
+sys	0m0.021s
+[INFO]Test  bitnami_spark_latest - 2 , default =  786018833
+sha256:e8e6eae997296967ffc591d9b20208850cb83edfa465434b2c39cb019b381f7e
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 3  default test ...
+
+real	5m7.377s
+user	0m0.056s
+sys	0m0.025s
+[INFO]Test  bitnami_spark_latest - 3 , default =  785177301
+sha256:72dc5a056c56f0751c5e5077dfdfd2bd1cbe10f732615f57b0435a8b4f6135f5
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 4  default test ...
+
+real	5m36.999s
+user	0m0.060s
+sys	0m0.047s
+[INFO]Test  bitnami_spark_latest - 4 , default =  785612795
+sha256:192cf5c89582e70529d91567d2cdd633f4abdc601642a64aa99207b4e46868e3
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 5  default test ...
+
+real	5m11.102s
+user	0m0.052s
+sys	0m0.030s
+[INFO]Test  bitnami_spark_latest - 5 , default =  785770601
+sha256:ed1bc0ff5de6858ff64e00e28f38168d3f084c98a082ae17d235ba9a279eef44
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 1  cached test ...
+
+real	5m6.822s
+user	0m0.054s
+sys	0m0.042s
+[INFO]Test  bitnami_spark_latest - 1 , cached =  24323312
+sha256:7b6542ccbb7d271e40e983964e3cc22bc7ad51d94d9356b3f9ac08601bd80d9b
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 2  cached test ...
+
+real	4m58.051s
+user	0m0.063s
+sys	0m0.038s
+[INFO]Test  bitnami_spark_latest - 2 , cached =  24262643
+sha256:bf34f513e86158113ce4171bda290dc09dc0f62c82109bd4b2d3dbb7b2201419
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 3  cached test ...
+
+real	5m16.433s
+user	0m0.033s
+sys	0m0.042s
+[INFO]Test  bitnami_spark_latest - 3 , cached =  24306224
+sha256:e2bd0d27905f915e3cbd7446ea00b454eb41726c6504cead1234c26427d1899f
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 4  cached test ...
+
+real	5m9.944s
+user	0m0.070s
+sys	0m0.033s
+[INFO]Test  bitnami_spark_latest - 4 , cached =  24269404
+sha256:1e00d01792259c56d71a29dfae42563f968cb58142f4aed83adb9df380bbbcc0
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 5  cached test ...
+
+real	5m22.635s
+user	0m0.052s
+sys	0m0.032s
+[INFO]Test  bitnami_spark_latest - 5 , cached =  24266845
+sha256:abcfca1ea5024c1a73bacbc0b8903d591a9d95447e90ccfa692efb7ae900553c
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  debian_10.13  ...
+
+real	0m7.939s
+user	0m0.059s
+sys	0m0.073s
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 1  default test ...
+
+real	0m9.987s
+user	0m0.043s
+sys	0m0.048s
+[INFO]Test  debian_10.13 - 1 , default =  492
+sha256:b26fa3d96eadf6048fff9f6de44418864dd51df44a2531561c681e108a8fda48
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 2  default test ...
+
+real	0m8.007s
+user	0m0.053s
+sys	0m0.041s
+[INFO]Test  debian_10.13 - 2 , default =  419
+sha256:eb2f2d84218b8169fbe97507259ca5753b416c545d136f08f767c27fc6a4a93d
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 3  default test ...
+
+real	0m29.167s
+user	0m0.046s
+sys	0m0.047s
+[INFO]Test  debian_10.13 - 3 , default =  492
+sha256:0f8bde2d94afc1e3fc3652510f2a80cafaddce04a49d5f1b04af9d0b8c68ef28
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 4  default test ...
+
+real	0m9.461s
+user	0m0.053s
+sys	0m0.036s
+[INFO]Test  debian_10.13 - 4 , default =  0
+sha256:69c4bfcb1d87d2b3b6ef49864d39570301a86c410291a7e8397f325ba85eef83
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 5  default test ...
+
+real	0m6.114s
+user	0m0.043s
+sys	0m0.048s
+[INFO]Test  debian_10.13 - 5 , default =  328
+sha256:3271a0f639df03e6f8b55354264cea79839bec5f504d287f42b37a94cab10f32
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 1  cached test ...
+
+real	0m14.311s
+user	0m0.018s
+sys	0m0.071s
+[INFO]Test  debian_10.13 - 1 , cached =  164
+sha256:762985b70954785eedaf8e8e2587c5653291c8617aa19704633dc8433b3c01a8
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 2  cached test ...
+
+real	0m5.653s
+user	0m0.046s
+sys	0m0.041s
+[INFO]Test  debian_10.13 - 2 , cached =  0
+sha256:bcc29fa5aa310fd2a423fe35c784856b80b9197dca373a5ffadc02366ce545a4
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 3  cached test ...
+
+real	0m10.965s
+user	0m0.041s
+sys	0m0.048s
+[INFO]Test  debian_10.13 - 3 , cached =  492
+sha256:4ca42add6a9ef4f926ec1b2460ed80832092d9298af3e5a7c76d915b0e70ee88
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 4  cached test ...
+
+real	0m7.544s
+user	0m0.044s
+sys	0m0.048s
+[INFO]Test  debian_10.13 - 4 , cached =  0
+sha256:3b522892b2c8db4e3ebdcaed161f708d7d436248ae057ea71951d9a9742f42e1
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 5  cached test ...
+
+real	0m6.977s
+user	0m0.066s
+sys	0m0.025s
+[INFO]Test  debian_10.13 - 5 , cached =  0
+sha256:6abb4784151f2fdfb6f33de54c0d34f04f2ac5a7b7096a2111fe5b7c4aac6294
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  debian_11.5  ...
+
+real	0m7.824s
+user	0m0.046s
+sys	0m0.067s
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 1  default test ...
+
+real	0m11.960s
+user	0m0.054s
+sys	0m0.049s
+[INFO]Test  debian_11.5 - 1 , default =  492
+sha256:83ede16ffda0896a0da68c40bd6f0154a1ac9e4601866304c2b5faa9d380ffd8
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 2  default test ...
+
+real	0m10.701s
+user	0m0.050s
+sys	0m0.050s
+[INFO]Test  debian_11.5 - 2 , default =  0
+sha256:9335b5796df929b5824b2bea33c97216730536a79f2fca97ea0ebe6c0ba33fce
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 3  default test ...
+
+real	0m30.645s
+user	0m0.058s
+sys	0m0.041s
+[INFO]Test  debian_11.5 - 3 , default =  1158
+sha256:77f55d86480cdafb5b60e90c40005aaddb50ff2203be3652c10dc0650f5ac42f
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 4  default test ...
+
+real	0m14.955s
+user	0m0.057s
+sys	0m0.041s
+[INFO]Test  debian_11.5 - 4 , default =  1230
+sha256:e3b5da16f43e5ecd4c1117899bbfda318e7f851c23f6715b00520ab9b25c1312
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 5  default test ...
+
+real	0m6.931s
+user	0m0.042s
+sys	0m0.059s
+[INFO]Test  debian_11.5 - 5 , default =  0
+sha256:5facb3a9e54e716ce64685a17c96ee6cfddfcb0e17fdfc16453ae830d4c10df1
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 1  cached test ...
+
+real	0m9.223s
+user	0m0.019s
+sys	0m0.080s
+[INFO]Test  debian_11.5 - 1 , cached =  0
+sha256:9effa611a04d0a4c6863a4845270fa760b1cc4409cb22c696b15d679773c6e47
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 2  cached test ...
+
+real	0m6.045s
+user	0m0.072s
+sys	0m0.023s
+[INFO]Test  debian_11.5 - 2 , cached =  492
+sha256:d275ed9714ea9f19ac7c99db0bc91ec5108cc7813f5379486cc701a5ec9b19a8
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 3  cached test ...
+
+real	0m5.754s
+user	0m0.028s
+sys	0m0.075s
+[INFO]Test  debian_11.5 - 3 , cached =  0
+sha256:9e6a83cb9785b86ce29d7e0148ea0f3e315edaa2f3d5aa0d16fd064701932697
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 4  cached test ...
+
+real	0m13.998s
+user	0m0.054s
+sys	0m0.050s
+[INFO]Test  debian_11.5 - 4 , cached =  0
+sha256:f1bec5e153d01f4863f4cb66bb640870df037202e194daa072f781601d07972c
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 5  cached test ...
+
+real	0m6.876s
+user	0m0.059s
+sys	0m0.041s
+[INFO]Test  debian_11.5 - 5 , cached =  492
+sha256:a2b995f291be35f5b02ca3093a41d01959161f8d811b417767d34c17f87ed05e
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  debian_stable_backports  ...
+
+real	0m16.600s
+user	0m0.030s
+sys	0m0.004s
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 1  default test ...
+
+real	0m1.218s
+user	0m0.037s
+sys	0m0.034s
+[INFO]Test  debian_stable_backports - 1 , default =  0
+sha256:27fe72d4204fa658ae24b55af1dfaacac6bcf22801785071b65aa71920edd67d
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 2  default test ...
+
+real	0m1.249s
+user	0m0.022s
+sys	0m0.015s
+[INFO]Test  debian_stable_backports - 2 , default =  0
+sha256:5efb8a23e70524905450415d8486a6161d29db5e29d23952f9d033941eb94afa
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 3  default test ...
+
+real	0m1.328s
+user	0m0.019s
+sys	0m0.045s
+[INFO]Test  debian_stable_backports - 3 , default =  0
+sha256:654520e2dddffc9898cec7eaf879a75210f7abb27a38dcdd2c3ef44bab331caa
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 4  default test ...
+
+real	0m1.188s
+user	0m0.015s
+sys	0m0.019s
+[INFO]Test  debian_stable_backports - 4 , default =  0
+sha256:75da6ff583c045383673a588207937d4a1f9281ec79c31a2755e6685c5300e72
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 5  default test ...
+
+real	0m1.123s
+user	0m0.024s
+sys	0m0.013s
+[INFO]Test  debian_stable_backports - 5 , default =  0
+sha256:10c3fb50e64d5021f33e6f20bda580e6130ce603e785b6ddde0b0f8e03cbf745
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 1  cached test ...
+
+real	0m1.227s
+user	0m0.023s
+sys	0m0.014s
+[INFO]Test  debian_stable_backports - 1 , cached =  164
+sha256:e16edc6431cd2b9743f39642c474f651b2e1e255ef428274648113ff49877b3b
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 2  cached test ...
+
+real	0m1.321s
+user	0m0.040s
+sys	0m0.024s
+[INFO]Test  debian_stable_backports - 2 , cached =  164
+sha256:70b181587daf5cb6c49e1256fa934f5f8c918762cb6ae8f862f18d073ab0f2bf
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 3  cached test ...
+
+real	0m1.286s
+user	0m0.024s
+sys	0m0.023s
+[INFO]Test  debian_stable_backports - 3 , cached =  164
+sha256:b57e2492942a596bc68c4e46a7fbc2fad54ca9d906b34fe017c9e9057762f0b5
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 4  cached test ...
+
+real	0m1.233s
+user	0m0.037s
+sys	0m0.026s
+[INFO]Test  debian_stable_backports - 4 , cached =  0
+sha256:d80cb58af68c342d7e4e87013ad5d5c99017b9fb07975f45600fe68daa83c79e
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 5  cached test ...
+
+real	0m1.274s
+user	0m0.031s
+sys	0m0.022s
+[INFO]Test  debian_stable_backports - 5 , cached =  0
+sha256:89d87dbb76834b62b4539d448edb2815bdead5d463c45783dfca8fbf90122326
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  debian_stable_slim  ...
+
+real	0m5.026s
+user	0m0.026s
+sys	0m0.044s
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 1  default test ...
+
+real	0m3.702s
+user	0m0.029s
+sys	0m0.029s
+[INFO]Test  debian_stable_slim - 1 , default =  0
+sha256:857a782c4d815bcd67983f16e51dc6b6830765a2cb72041357428fbcafdc925f
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 2  default test ...
+
+real	0m3.159s
+user	0m0.032s
+sys	0m0.023s
+[INFO]Test  debian_stable_slim - 2 , default =  0
+sha256:d758f9857859e06938e0e70f70a19ce18b9765403790131647420fd5dcbea62e
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 3  default test ...
+
+real	0m3.151s
+user	0m0.035s
+sys	0m0.025s
+[INFO]Test  debian_stable_slim - 3 , default =  0
+sha256:beb83901f7e63064fbce4824f9378d13bff1abb936ab19ba7b056a0994e8fa20
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 4  default test ...
+
+real	0m3.190s
+user	0m0.034s
+sys	0m0.024s
+[INFO]Test  debian_stable_slim - 4 , default =  0
+sha256:f0788a24eb08820857a7d62b75514ccc76f5595cacdbd57939f96f0613f8acb2
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 5  default test ...
+
+real	0m3.151s
+user	0m0.020s
+sys	0m0.038s
+[INFO]Test  debian_stable_slim - 5 , default =  164
+sha256:14dc02719bb7f7ee52325d634abce809fdf2fef4f6a892ff029b35e57f02b6d8
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 1  cached test ...
+
+real	0m3.339s
+user	0m0.026s
+sys	0m0.030s
+[INFO]Test  debian_stable_slim - 1 , cached =  328
+sha256:f7cb12ec861401851840c8660c94744c2d12ce18fced663328a174d0863d9a15
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 2  cached test ...
+
+real	0m3.135s
+user	0m0.028s
+sys	0m0.023s
+[INFO]Test  debian_stable_slim - 2 , cached =  0
+sha256:a4473a4d142b69494ccf1152c9e15e3c4c2de435532ffd98530e313f36d09ed4
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 3  cached test ...
+
+real	0m3.505s
+user	0m0.032s
+sys	0m0.023s
+[INFO]Test  debian_stable_slim - 3 , cached =  0
+sha256:ebfece5ce4a8e7104c4cab5a078c6df184270c0883f27e42470f0356d792623f
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 4  cached test ...
+
+real	0m3.824s
+user	0m0.026s
+sys	0m0.032s
+[INFO]Test  debian_stable_slim - 4 , cached =  0
+sha256:11501380e26f9e79d51087b457dfa796511387fd819958f13b4942e1f8ed6592
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 5  cached test ...
+
+real	0m3.785s
+user	0m0.037s
+sys	0m0.016s
+[INFO]Test  debian_stable_slim - 5 , cached =  0
+sha256:df039de1d76d11a51a65c21747a31f0a204a9477a3771d12ec6a2f07733c65bd
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  flink_1.15.2  ...
+
+real	25m53.700s
+user	0m0.117s
+sys	0m0.168s
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 1  default test ...
+
+real	7m1.970s
+user	0m0.084s
+sys	0m0.027s
+[INFO]Test  flink_1.15.2 - 1 , default =  498699573
+sha256:765aff944d97cfa35de52ec118cdc5d37ae96a6784a803626f1e64714a828113
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 2  default test ...
+
+real	7m25.830s
+user	0m0.077s
+sys	0m0.030s
+[INFO]Test  flink_1.15.2 - 2 , default =  498413312
+sha256:11b35e26d0744678b36bdeb5fceb546a7fc57923319db12524bd9b0ee38a1ba7
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 3  default test ...
+
+real	155m33.702s
+user	0m0.786s
+sys	0m0.453s
+[INFO]Test  flink_1.15.2 - 3 , default =  901328414
+sha256:6acc443c1be65aafaf51e50afe128e9beb61566b5f790d2295a3739f9a39f468
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 4  default test ...
+
+real	49m34.626s
+user	0m0.395s
+sys	0m0.027s
+[INFO]Test  flink_1.15.2 - 4 , default =  490250858
+sha256:72d86c360087fce1c6084fd3522e192a4d9acb121a3e7559c8cbe5391a6fd2ca
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 5  default test ...
+
+real	3m58.588s
+user	0m0.047s
+sys	0m0.017s
+[INFO]Test  flink_1.15.2 - 5 , default =  490238450
+sha256:2a474e1f7ade1ffc468e7f5531c6a8e804981958e97d08b8d220ae331b1d10b8
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 1  cached test ...
+
+real	0m55.509s
+user	0m0.020s
+sys	0m0.016s
+[INFO]Test  flink_1.15.2 - 1 , cached =  26301916
+sha256:d656e1674f32187b574716989a8a2cf00399c0b78531f02653d2871fb5f27fd4
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 2  cached test ...
+
+real	1m23.105s
+user	0m0.025s
+sys	0m0.009s
+[INFO]Test  flink_1.15.2 - 2 , cached =  26277822
+sha256:052be0a24ebf482a6a29e49530a46d6d17245d59173293333221f030917a7842
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 3  cached test ...
+
+real	0m59.954s
+user	0m0.011s
+sys	0m0.025s
+[INFO]Test  flink_1.15.2 - 3 , cached =  26255346
+sha256:ac0f8a2a4583bb3de88958f5df6bcf3518a4dad23dbeaa443ebc98db00e8203e
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 4  cached test ...
+
+real	1m1.974s
+user	0m0.022s
+sys	0m0.014s
+[INFO]Test  flink_1.15.2 - 4 , cached =  26186474
+sha256:5f4db236c79603ad03279e9e125dd10c59727ad53e2674b5f5594172de277ee3
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 5  cached test ...
+
+real	1m26.441s
+user	0m0.013s
+sys	0m0.025s
+[INFO]Test  flink_1.15.2 - 5 , cached =  26239711
+sha256:d2aee6172f2df5a9eb8b4841b82b122da3d527489c133640fc4cdab0638b18a3
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  flink_java8  ...
+
+real	2m30.039s
+user	0m0.018s
+sys	0m0.022s
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 1  default test ...
+
+real	2m31.878s
+user	0m0.029s
+sys	0m0.021s
+[INFO]Test  flink_java8 - 1 , default =  531455180
+sha256:73074092a7d83168414e59fce0392d03d76bc8f43a7364af73b233e88ca81e8a
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 2  default test ...
+
+real	2m3.565s
+user	0m0.030s
+sys	0m0.014s
+[INFO]Test  flink_java8 - 2 , default =  531494918
+sha256:91374efa6cf9b05beecac2d7c5c3d4253aa7b9d33e07dadcc3ff16014dd94da8
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 3  default test ...
+
+real	2m1.122s
+user	0m0.039s
+sys	0m0.008s
+[INFO]Test  flink_java8 - 3 , default =  531574891
+sha256:070f8fd38ec853e8ae880ecef7a36d83d07a9d128c2f5a9b4e5a56b90dd679de
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 4  default test ...
+
+real	2m18.676s
+user	0m0.037s
+sys	0m0.008s
+[INFO]Test  flink_java8 - 4 , default =  531323044
+sha256:93a18e698f6134b274948ac2cb7428e76da24d1efd053d3b6983c01a1858d263
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 5  default test ...
+
+real	2m15.830s
+user	0m0.027s
+sys	0m0.023s
+[INFO]Test  flink_java8 - 5 , default =  531456217
+sha256:d381ad837a6feafc8c11fbc0d1cfd9f33d37e48312d987daf671612440a0b4ef
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 1  cached test ...
+
+real	0m59.506s
+user	0m0.019s
+sys	0m0.015s
+[INFO]Test  flink_java8 - 1 , cached =  26238438
+sha256:1c823e924bf6955fdd3e2931197c1cc2b6ca000ca1dde295f0a984c398ba6047
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 2  cached test ...
+
+real	1m32.838s
+user	0m0.018s
+sys	0m0.018s
+[INFO]Test  flink_java8 - 2 , cached =  26263720
+sha256:c296cebaf5960d5dbca33fd363191843adf399fdf4fefd8512bb6bb2e615647d
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 3  cached test ...
+
+real	1m19.024s
+user	0m0.020s
+sys	0m0.017s
+[INFO]Test  flink_java8 - 3 , cached =  26293874
+sha256:3a66c771932ea045ad9b92f2fa4bb9e8f180236db05b9e0f9dafcb7bdcba8db5
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 4  cached test ...
+
+real	1m1.980s
+user	0m0.023s
+sys	0m0.012s
+[INFO]Test  flink_java8 - 4 , cached =  26266351
+sha256:b1c19006ac98fefe08e677e55e09716f0daf2f0d8355342aae905e7da119a610
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 5  cached test ...
+
+real	1m4.290s
+user	0m0.022s
+sys	0m0.014s
+[INFO]Test  flink_java8 - 5 , cached =  26189286
+sha256:8df335baa5e34c8c8aae36728f4f501578f0d9fafe6d073599580f8163278964
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  flink_latest  ...
+
+real	1m13.169s
+user	0m0.018s
+sys	0m0.020s
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 1  default test ...
+
+real	2m4.551s
+user	0m0.030s
+sys	0m0.016s
+[INFO]Test  flink_latest - 1 , default =  531372581
+sha256:84131953fd10c34fc33ab294098efc88d961c0f470a98270deb5ff63b963885b
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 2  default test ...
+
+real	2m17.071s
+user	0m0.010s
+sys	0m0.038s
+[INFO]Test  flink_latest - 2 , default =  531331288
+sha256:06fd38a25c1f1c5813fbb5c3add2d3be30ffc03b7c395308c6cd15d771feacf9
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 3  default test ...
+
+real	1m58.770s
+user	0m0.026s
+sys	0m0.011s
+[INFO]Test  flink_latest - 3 , default =  531722851
+sha256:8e837ba1982722764afacaff1852187fccbae678fd610dd4660f8ddb2c434641
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 4  default test ...
+
+real	2m3.137s
+user	0m0.014s
+sys	0m0.032s
+[INFO]Test  flink_latest - 4 , default =  531438946
+sha256:4a4b5c8091ae46d74505d753ad7ae10e0a6f56f6a97508164e49d01f41062ee5
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 5  default test ...
+
+real	3m57.773s
+user	0m0.036s
+sys	0m0.017s
+[INFO]Test  flink_latest - 5 , default =  531571307
+sha256:c23e9ab762ce5897fb06e7b00fc0dfdcc22d9d40d8ae09b11b9148a59595a363
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 1  cached test ...
+
+real	0m59.027s
+user	0m0.025s
+sys	0m0.010s
+[INFO]Test  flink_latest - 1 , cached =  26270076
+sha256:10061e899a6261a8a42479cdd001aba2577aad9cee755607ec2209aaf2451497
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 2  cached test ...
+
+real	32m31.678s
+user	0m0.237s
+sys	0m0.041s
+[INFO]Test  flink_latest - 2 , cached =  26360216
+sha256:3238a4fab831b61a7d8038224b3658a0787e05b12b117349d036bf82db295150
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 3  cached test ...
+
+real	3m6.115s
+user	0m0.027s
+sys	0m0.022s
+[INFO]Test  flink_latest - 3 , cached =  26281467
+sha256:7f007dab30b835e942ae63ad63b178c7c98de6a8dcf492f469699e2fce63c4f6
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 4  cached test ...
+
+real	1m16.424s
+user	0m0.020s
+sys	0m0.016s
+[INFO]Test  flink_latest - 4 , cached =  26274147
+sha256:c3b57635106342175a6c87b399477c708de76c8eb9436d9c7bda7884b3ad846e
+[INFO]Clean the test image ...
+[INFO]Start  flink_latest - 5  cached test ...
+
+real	0m56.598s
+user	0m0.021s
+sys	0m0.014s
+[INFO]Test  flink_latest - 5 , cached =  26179175
+sha256:7e3c47b2c3b91cb567557f61e4d3c03ffdb8babc3089f1635b91b36fa2f34bd4
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  nginx_1.22.1  ...
+
+real	0m52.848s
+user	0m0.015s
+sys	0m0.020s
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 1  default test ...
+
+real	0m38.524s
+user	0m0.018s
+sys	0m0.018s
+[INFO]Test  nginx_1.22.1 - 1 , default =  40811370
+sha256:790ee4145228c5b63f2001a5bf7de99175b4680e31a9437d3993e6da805bdc9b
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 2  default test ...
+
+real	0m41.646s
+user	0m0.021s
+sys	0m0.015s
+[INFO]Test  nginx_1.22.1 - 2 , default =  40690497
+sha256:e2f2ffefec4ef1a1a0ae1341b7f54cad4a3b07a50d5faab364cf2a0347aaeae7
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 3  default test ...
+
+real	0m37.527s
+user	0m0.009s
+sys	0m0.027s
+[INFO]Test  nginx_1.22.1 - 3 , default =  40725965
+sha256:b0324cd3b5b5f8890f48be81bd2e046cafce2c2512177ce87b41a370461ce47a
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 4  default test ...
+
+real	0m33.608s
+user	0m0.027s
+sys	0m0.011s
+[INFO]Test  nginx_1.22.1 - 4 , default =  40779719
+sha256:c4b8b7208a984bec1a5316c28cd509368749dfe2ffcbbf054131e0431e0d3875
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 5  default test ...
+
+real	0m32.928s
+user	0m0.016s
+sys	0m0.020s
+[INFO]Test  nginx_1.22.1 - 5 , default =  40685190
+sha256:065c6e40f56b46f0b30e0711e3e2f7f342ce9ed676c141ae04e18bb598bab141
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 1  cached test ...
+
+real	0m30.779s
+user	0m0.030s
+sys	0m0.010s
+[INFO]Test  nginx_1.22.1 - 1 , cached =  18180601
+sha256:1bbe7fbac7a636a1ed392e5c0d5f907cd12ff7a7744bc1fa1d76f05dbf2919b7
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 2  cached test ...
+
+real	0m31.634s
+user	0m0.020s
+sys	0m0.015s
+[INFO]Test  nginx_1.22.1 - 2 , cached =  18084433
+sha256:5c9082fbf240ced2ba8ab1c222336ddad939e35b7e5ffa7c455514c6c8ac8ee4
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 3  cached test ...
+
+real	0m29.770s
+user	0m0.017s
+sys	0m0.017s
+[INFO]Test  nginx_1.22.1 - 3 , cached =  18084500
+sha256:be488d9fca38fc371e7275e430f2002689a85d57c1a082d12fba205393b09a37
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 4  cached test ...
+
+real	0m28.872s
+user	0m0.029s
+sys	0m0.014s
+[INFO]Test  nginx_1.22.1 - 4 , cached =  18085070
+sha256:db7c3e246c39e837fba4998515f23955d07f3fb12efa2763a18207e8134a5822
+[INFO]Clean the test image ...
+[INFO]Start  nginx_1.22.1 - 5  cached test ...
+
+real	0m28.429s
+user	0m0.022s
+sys	0m0.017s
+[INFO]Test  nginx_1.22.1 - 5 , cached =  18084374
+sha256:9f27a1bf30694e60d35d3d9ea4142495e28f20ddfb33ec282905d0e50d3aac3b
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  nginx_latest  ...
+
+real	0m41.836s
+user	0m0.046s
+sys	0m0.030s
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 1  default test ...
+
+real	0m31.979s
+user	0m0.026s
+sys	0m0.011s
+[INFO]Test  nginx_latest - 1 , default =  40726061
+sha256:2fb45b208f6ae9df969e3616013367bbbf1a7678fec972f9bc36563e30b5a8be
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 2  default test ...
+
+real	0m36.709s
+user	0m0.014s
+sys	0m0.018s
+[INFO]Test  nginx_latest - 2 , default =  40722027
+sha256:455196d2bc28010b33542c7ec350257a192ae1d71ce449e74ffab340837928fe
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 3  default test ...
+
+real	0m38.220s
+user	0m0.030s
+sys	0m0.012s
+[INFO]Test  nginx_latest - 3 , default =  40681136
+sha256:b707357e4885d75c7f57f7384a25cf76fce45af69893e54e66e9df7a4cd107f6
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 4  default test ...
+
+real	0m36.479s
+user	0m0.029s
+sys	0m0.009s
+[INFO]Test  nginx_latest - 4 , default =  40761898
+sha256:3af1a1e505996de901e06f90d67fa0653484545caab74928c140c7d9bab22adc
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 5  default test ...
+
+real	0m32.259s
+user	0m0.027s
+sys	0m0.011s
+[INFO]Test  nginx_latest - 5 , default =  40679026
+sha256:334f44283da0c401961e2de38b4376355332415504a036ca44a59df9124528a8
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 1  cached test ...
+
+real	0m27.812s
+user	0m0.009s
+sys	0m0.026s
+[INFO]Test  nginx_latest - 1 , cached =  18089376
+sha256:05a47d1ad33306afce78208a4a4a581e71968371ed6b483f77551b592a9e24d0
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 2  cached test ...
+
+real	0m28.071s
+user	0m0.023s
+sys	0m0.009s
+[INFO]Test  nginx_latest - 2 , cached =  18084301
+sha256:958bacd6ac1950319b6d1e3c5835e6926a2adae15266d308185c91bdf7a26956
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 3  cached test ...
+
+real	0m28.024s
+user	0m0.020s
+sys	0m0.015s
+[INFO]Test  nginx_latest - 3 , cached =  18084353
+sha256:931fb9184040eca9983d638b05470b076afb2a349a2cfb958c8949af9f893961
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 4  cached test ...
+
+real	0m28.096s
+user	0m0.018s
+sys	0m0.021s
+[INFO]Test  nginx_latest - 4 , cached =  18084157
+sha256:2aaff0d8e4a24cb1f411e71edab3548af37ace258d1fd89fbbae7137281e8a7b
+[INFO]Clean the test image ...
+[INFO]Start  nginx_latest - 5  cached test ...
+
+real	0m28.568s
+user	0m0.021s
+sys	0m0.021s
+[INFO]Test  nginx_latest - 5 , cached =  18086578
+sha256:17b01f0a443224a7ac347ac96dc4e58bf7f7ab8ca39fe6c18c4e6645aba1567a
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  openjdk_oraclelinux7  ...
+
+real	1m4.728s
+user	0m0.018s
+sys	0m0.017s
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 1  default test ...
+
+real	0m50.060s
+user	0m0.023s
+sys	0m0.010s
+[INFO]Test  openjdk_oraclelinux7 - 1 , default =  257013091
+sha256:4cc825223e82565e61a8285d72de404b8f75ebded139414f4952952a9a3a6805
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 2  default test ...
+
+real	0m49.465s
+user	0m0.019s
+sys	0m0.014s
+[INFO]Test  openjdk_oraclelinux7 - 2 , default =  256844516
+sha256:6d22a7cf8a290a95d90358d26d5567d28967202c80f9886e775ab8ff160e4fd3
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 3  default test ...
+
+real	0m52.841s
+user	0m0.020s
+sys	0m0.014s
+[INFO]Test  openjdk_oraclelinux7 - 3 , default =  256720760
+sha256:2a815ce8534c4d60edf28b9c481d5e7d74d1cd45c72d21f0ae9a398a94b400a5
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 4  default test ...
+
+real	0m49.232s
+user	0m0.015s
+sys	0m0.017s
+[INFO]Test  openjdk_oraclelinux7 - 4 , default =  256821484
+sha256:d1bbfcea7bfb0baa334aae0e9cc90d19937885faa653ab1882da099c4fcd336f
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 5  default test ...
+
+real	0m52.533s
+user	0m0.013s
+sys	0m0.022s
+[INFO]Test  openjdk_oraclelinux7 - 5 , default =  256825574
+sha256:b04792f6dc056278b76979bb8c48364419f8dbcd95802304410e7e38eafa9679
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 1  cached test ...
+
+real	0m33.572s
+user	0m0.023s
+sys	0m0.010s
+[INFO]Test  openjdk_oraclelinux7 - 1 , cached =  59310573
+sha256:f9c0e2b7e763757b16100fa52ec309073ece6d98ab3c116aab02842ff7ee1de7
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 2  cached test ...
+
+real	0m35.781s
+user	0m0.025s
+sys	0m0.009s
+[INFO]Test  openjdk_oraclelinux7 - 2 , cached =  59344947
+sha256:2291835165baef263bff34c5429414c91bb7418d8a72a826c4d259f03875820b
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 3  cached test ...
+
+real	0m34.082s
+user	0m0.019s
+sys	0m0.015s
+[INFO]Test  openjdk_oraclelinux7 - 3 , cached =  59356645
+sha256:04136808a682f805696d1b8f8fea7b007df48baf24ad4ca3c439fe4a8b3c95cc
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 4  cached test ...
+
+real	0m33.630s
+user	0m0.023s
+sys	0m0.012s
+[INFO]Test  openjdk_oraclelinux7 - 4 , cached =  59325682
+sha256:82244f2c70baa8514a244313f8f36172f039b694124eafdc76d8c3eb1fa30ce2
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux7 - 5  cached test ...
+
+real	0m32.270s
+user	0m0.018s
+sys	0m0.014s
+[INFO]Test  openjdk_oraclelinux7 - 5 , cached =  59413452
+sha256:1ca1d1a9b8676adb00fd579d93f1fe2048fa5e66b17b6f9c00f1699e5c854209
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  openjdk_oraclelinux8  ...
+
+real	0m59.943s
+user	0m0.022s
+sys	0m0.012s
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 1  default test ...
+
+real	1m3.771s
+user	0m0.018s
+sys	0m0.017s
+[INFO]Test  openjdk_oraclelinux8 - 1 , default =  309795546
+sha256:b0bd2232dce9d34cb79552425589ace7dd5c56efd7c937932b38bdb062d7cfbf
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 2  default test ...
+
+real	1m5.014s
+user	0m0.022s
+sys	0m0.012s
+[INFO]Test  openjdk_oraclelinux8 - 2 , default =  309807521
+sha256:335f337f88bdf0416b1956777049b5ba624342d737ff4d921a060bc657669ea1
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 3  default test ...
+
+real	1m3.328s
+user	0m0.020s
+sys	0m0.014s
+[INFO]Test  openjdk_oraclelinux8 - 3 , default =  309752739
+sha256:6d7e171b8e5cf3c39e5484999d1dcfbe490f3975ab77c6f870f1917e8a144617
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 4  default test ...
+
+real	1m4.865s
+user	0m0.012s
+sys	0m0.021s
+[INFO]Test  openjdk_oraclelinux8 - 4 , default =  309813556
+sha256:de8ecd3b03fca1303e45995380cca09208b6e2ffec1ccae73c0dab374f3983a5
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 5  default test ...
+
+real	1m4.394s
+user	0m0.019s
+sys	0m0.014s
+[INFO]Test  openjdk_oraclelinux8 - 5 , default =  309745867
+sha256:93793bfbd96084b58bc7f42892b592fef26df53ca1339efb6a05cd9ba36a4732
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 1  cached test ...
+
+real	0m37.672s
+user	0m0.024s
+sys	0m0.012s
+[INFO]Test  openjdk_oraclelinux8 - 1 , cached =  60136
+sha256:5cc87295653c6739eb94622481bdf8c357d9025735f4cf855a11041c9b2a32fc
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 2  cached test ...
+
+real	0m36.146s
+user	0m0.026s
+sys	0m0.005s
+[INFO]Test  openjdk_oraclelinux8 - 2 , cached =  42375
+sha256:516f5655deeb2802ea19e561ca9f156a794f6d4839f2855485b1448d87201f3f
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 3  cached test ...
+
+real	0m36.199s
+user	0m0.026s
+sys	0m0.005s
+[INFO]Test  openjdk_oraclelinux8 - 3 , cached =  36895
+sha256:f8ffcff95008415b9298d78fa6dcf66335fafaa49103b937eba4ed7c75035a61
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 4  cached test ...
+
+real	0m36.133s
+user	0m0.019s
+sys	0m0.014s
+[INFO]Test  openjdk_oraclelinux8 - 4 , cached =  26326
+sha256:dbfe8588d221fa72e9243e91567cabf84491978d6199b1e8f2a9f53897f8e889
+[INFO]Clean the test image ...
+[INFO]Start  openjdk_oraclelinux8 - 5  cached test ...
+
+real	0m37.280s
+user	0m0.026s
+sys	0m0.007s
+[INFO]Test  openjdk_oraclelinux8 - 5 , cached =  32195
+sha256:5d730193e2b0d3cbbac9888d4f9d7d68b22df6e992e0c08885de5b63d8debae5
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  redis_6.2.7  ...
+
+real	1m52.944s
+user	0m0.018s
+sys	0m0.036s
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 1  default test ...
+
+real	1m32.074s
+user	0m0.042s
+sys	0m0.031s
+[INFO]Test  redis_6.2.7 - 1 , default =  99671032
+sha256:0bb085b4c5ea989bb0cd78d16329132c7a045bf706d50a5e7ae935dc838d30fa
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 2  default test ...
+
+real	1m31.445s
+user	0m0.030s
+sys	0m0.038s
+[INFO]Test  redis_6.2.7 - 2 , default =  99807190
+sha256:dc44ce152bb3152f24be5b20587ad601c8985803c46545c96013fc70096fd8c7
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 3  default test ...
+
+real	1m28.690s
+user	0m0.038s
+sys	0m0.035s
+[INFO]Test  redis_6.2.7 - 3 , default =  99801038
+sha256:8c0fa26a389a3e4d6cede8d7eba8f04d8a5c8b422a0b6351a2c5d6b84decd263
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 4  default test ...
+
+real	1m20.776s
+user	0m0.038s
+sys	0m0.042s
+[INFO]Test  redis_6.2.7 - 4 , default =  99644684
+sha256:ae0ff43f7165a9e3823736adad891b4a7d222cccaa45b68a5cf4fd12a7e5aa22
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 5  default test ...
+
+real	1m24.865s
+user	0m0.047s
+sys	0m0.021s
+[INFO]Test  redis_6.2.7 - 5 , default =  99644877
+sha256:4167889fd85af39035cf6d1d693709147a52ab11c9a681fb5074e5ec7eba7b58
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 1  cached test ...
+
+real	1m14.312s
+user	0m0.021s
+sys	0m0.019s
+[INFO]Test  redis_6.2.7 - 1 , cached =  18156231
+sha256:a035cd18b658ad25d6119a68ae0cee0a17b99cc2c3a7115c7a472c898ed4072f
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 2  cached test ...
+
+real	1m10.611s
+user	0m0.035s
+sys	0m0.031s
+[INFO]Test  redis_6.2.7 - 2 , cached =  18128956
+sha256:56d631f8089d14768f14f35127d5cffc1ea40253f8d2d634646d3bef57d1e506
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 3  cached test ...
+
+real	1m14.079s
+user	0m0.021s
+sys	0m0.021s
+[INFO]Test  redis_6.2.7 - 3 , cached =  18133967
+sha256:b13f7e17708973602aa8b918ded07acfc859f5100888cd979863f1213119453d
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 4  cached test ...
+
+real	1m10.868s
+user	0m0.033s
+sys	0m0.029s
+[INFO]Test  redis_6.2.7 - 4 , cached =  18127507
+sha256:e486e6f6b0169c0daadcc56af159d487aa73439a1e6fc8d537fc7ffa796f4705
+[INFO]Clean the test image ...
+[INFO]Start  redis_6.2.7 - 5  cached test ...
+
+real	1m11.411s
+user	0m0.012s
+sys	0m0.028s
+[INFO]Test  redis_6.2.7 - 5 , cached =  18129283
+sha256:685272bee4c3ab26cc4a23f3211e1e3f020cc60dce266177758a2405937b74db
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  redis_7.0.5  ...
+
+real	1m24.871s
+user	0m0.014s
+sys	0m0.023s
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 1  default test ...
+
+real	1m23.320s
+user	0m0.005s
+sys	0m0.035s
+[INFO]Test  redis_7.0.5 - 1 , default =  100167756
+sha256:ac5d6f8d35cf16838e98ff79dd671ced5c41b807fdf1963f264443706ceecbbc
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 2  default test ...
+
+real	1m23.230s
+user	0m0.015s
+sys	0m0.021s
+[INFO]Test  redis_7.0.5 - 2 , default =  100158443
+sha256:8304dc176de4adc278b9280ffc89e3c0cdb2f4a61e5be1c5d282e41e064e11fc
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 3  default test ...
+
+real	1m24.779s
+user	0m0.024s
+sys	0m0.025s
+[INFO]Test  redis_7.0.5 - 3 , default =  100123544
+sha256:6a467749792e909d20bceb825421c0ef706dc56bb9d3e078c3fb03a07f8b060b
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 4  default test ...
+
+real	1m24.102s
+user	0m0.040s
+sys	0m0.028s
+[INFO]Test  redis_7.0.5 - 4 , default =  100258893
+sha256:aea08925aa6eccafc6d57634fe17f4870303af9ded805f79cf56171d2df71fc8
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 5  default test ...
+
+real	1m22.820s
+user	0m0.024s
+sys	0m0.039s
+[INFO]Test  redis_7.0.5 - 5 , default =  100237399
+sha256:c3bdf09b5a9a2795172d11dd6e7a422ffcae9effa6f6c457c1c40b759bb4c444
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 1  cached test ...
+
+real	1m17.706s
+user	0m0.020s
+sys	0m0.023s
+[INFO]Test  redis_7.0.5 - 1 , cached =  18149204
+sha256:1a2b3275485e4e21de977ce2aa827e9baa1d3975d144108c1061f6fabb5b0f9c
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 2  cached test ...
+
+real	1m17.228s
+user	0m0.036s
+sys	0m0.035s
+[INFO]Test  redis_7.0.5 - 2 , cached =  18127349
+sha256:f9b3025bb7ca4888bf42f40864054b49cc36287a8a9c6d7a74fec32be9b5bdb7
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 3  cached test ...
+
+real	1m13.504s
+user	0m0.048s
+sys	0m0.024s
+[INFO]Test  redis_7.0.5 - 3 , cached =  18132669
+sha256:6c034166db438ef4007e9d611a4efc27ba2a75ae7a4a2770805b7fce52a44934
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 4  cached test ...
+
+real	1m16.575s
+user	0m0.033s
+sys	0m0.030s
+[INFO]Test  redis_7.0.5 - 4 , cached =  18129762
+sha256:ebd1e04921864792dba71bdc9ce3089f97f195e3665c94d499c9f0a9c4452fc8
+[INFO]Clean the test image ...
+[INFO]Start  redis_7.0.5 - 5  cached test ...
+
+real	1m13.048s
+user	0m0.019s
+sys	0m0.026s
+[INFO]Test  redis_7.0.5 - 5 , cached =  18128414
+sha256:d66d635320761d9ac4015b73b84890e0d4d1a0e1dc9a28e5bedafb1f04cc6cd5
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  storm_1.2.4  ...
+
+real	1m22.095s
+user	0m0.008s
+sys	0m0.029s
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 1  default test ...
+
+real	0m59.004s
+user	0m0.012s
+sys	0m0.022s
+[INFO]Test  storm_1.2.4 - 1 , default =  210500913
+sha256:10911e086b86f7f17684d89db1b4cc97031ee1d6be782e9184694b51c7f49c43
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 2  default test ...
+
+real	0m50.949s
+user	0m0.026s
+sys	0m0.009s
+[INFO]Test  storm_1.2.4 - 2 , default =  210434864
+sha256:41e6a7e443f8fc2ae78d5009e99b7ad963c809b2b48f22ccb39425f3d953b205
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 3  default test ...
+
+real	0m55.227s
+user	0m0.021s
+sys	0m0.013s
+[INFO]Test  storm_1.2.4 - 3 , default =  210508301
+sha256:bc11e7c5dd42950cc1c31f1c54e9f2edc00810a8b895ee86a273232f22da6bea
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 4  default test ...
+
+real	0m53.195s
+user	0m0.022s
+sys	0m0.012s
+[INFO]Test  storm_1.2.4 - 4 , default =  210543874
+sha256:5a6ba96e3377c9e0866ffadc4d70e8570a68017355bb8da69ccaa807afaea958
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 5  default test ...
+
+real	0m53.519s
+user	0m0.018s
+sys	0m0.017s
+[INFO]Test  storm_1.2.4 - 5 , default =  210512731
+sha256:1cb1aebd04c28cac05fce3d0ffbebe822f1f75465a74904db222035bdd1261c0
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 1  cached test ...
+
+real	0m32.057s
+user	0m0.015s
+sys	0m0.018s
+[INFO]Test  storm_1.2.4 - 1 , cached =  9087166
+sha256:54bf6d812e7970fbeb2d3332eeadf8dc2bbdff20a4398e62f0bb24950c905d6d
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 2  cached test ...
+
+real	0m32.719s
+user	0m0.009s
+sys	0m0.025s
+[INFO]Test  storm_1.2.4 - 2 , cached =  9072744
+sha256:9085886785096c3e3fea949a23a581a2528ace9bd3d6fddc090bd6c95766c14f
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 3  cached test ...
+
+real	0m39.446s
+user	0m0.025s
+sys	0m0.010s
+[INFO]Test  storm_1.2.4 - 3 , cached =  9082335
+sha256:0403274b804417c581bed6007f16c8288deec6113a56662c4e5838fbd6672fcb
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 4  cached test ...
+
+real	0m33.610s
+user	0m0.022s
+sys	0m0.009s
+[INFO]Test  storm_1.2.4 - 4 , cached =  9076678
+sha256:e7a22008316c2b0e6b53c03fa8f458b7e6f94dd73256cc9f109d83ef50ae3d06
+[INFO]Clean the test image ...
+[INFO]Start  storm_1.2.4 - 5  cached test ...
+
+real	0m34.271s
+user	0m0.013s
+sys	0m0.017s
+[INFO]Test  storm_1.2.4 - 5 , cached =  9073749
+sha256:13538bf9b6046cdde16bc424dc0ccd844f972c7209bf7d4d98bb4b994d8b8999
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  storm_2.2.0  ...
+
+real	3m11.736s
+user	0m0.047s
+sys	0m0.010s
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 1  default test ...
+Sending build context to Docker daemon  5.632kB
+Step 1/11 : FROM openjdk:8-jre-slim
+ ---> 85b121affedd
+Step 2/11 : ENV STORM_CONF_DIR=/conf     STORM_DATA_DIR=/data     STORM_LOG_DIR=/logs
+ ---> Running in 1183bda2b8f5
+Removing intermediate container 1183bda2b8f5
+ ---> f18710387d6b
+Step 3/11 : RUN set -eux;     groupadd -r storm --gid=1000;     useradd -r -g storm --uid=1000 storm;     mkdir -p "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR";     chown -R storm:storm "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR"``
+ ---> Running in b79963a2456e
++ groupadd -r storm --gid=1000
++ useradd -r -g storm --uid=1000 storm
++ mkdir -p /conf /data /logs
++ chown -R storm:storm /conf /data /logs
+Removing intermediate container b79963a2456e
+ ---> ddf7dae23f44
+Step 4/11 : RUN set -eux;     apt-get update;     DEBIAN_FRONTEND=noninteractive     apt-get install -y --no-install-recommends         bash         ca-certificates         dirmngr         gosu         gnupg         python         procps         wget;     rm -rf /var/lib/apt/lists/*;     gosu nobody true
+ ---> Running in f7ca4a1024c6
++ apt-get update
+Get:1 http://deb.debian.org/debian bullseye InRelease [116 kB]
+Get:2 http://deb.debian.org/debian-security bullseye-security InRelease [48.4 kB]
+Get:3 http://deb.debian.org/debian bullseye-updates InRelease [44.1 kB]
+Get:4 http://deb.debian.org/debian bullseye/main amd64 Packages [8184 kB]
+Get:5 http://deb.debian.org/debian-security bullseye-security/main amd64 Packages [209 kB]
+Get:6 http://deb.debian.org/debian bullseye-updates/main amd64 Packages [14.6 kB]
+Fetched 8615 kB in 4s (2331 kB/s)
+Reading package lists...
++ DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends bash ca-certificates dirmngr gosu gnupg python procps wget
+Reading package lists...
+Building dependency tree...
+Reading state information...
+bash is already the newest version (5.1-2+deb11u1).
+bash set to manually installed.
+ca-certificates is already the newest version (20210119).
+The following additional packages will be installed:
+  gnupg-l10n gnupg-utils gpg gpg-agent gpg-wks-client gpg-wks-server gpgconf
+  gpgsm libassuan0 libexpat1 libgdbm-compat4 libgdbm6 libksba8 libldap-2.4-2
+  libncurses6 libncursesw6 libnpth0 libperl5.32 libprocps8 libpsl5
+  libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib libreadline8
+  libsasl2-2 libsasl2-modules-db libsqlite3-0 mailcap media-types mime-support
+  perl perl-modules-5.32 pinentry-curses python2 python2-minimal python2.7
+  python2.7-minimal readline-common
+Suggested packages:
+  dbus-user-session libpam-systemd pinentry-gnome3 tor parcimonie xloadimage
+  scdaemon gdbm-l10n sensible-utils perl-doc libterm-readline-gnu-perl
+  | libterm-readline-perl-perl make libtap-harness-archive-perl pinentry-doc
+  python2-doc python-tk python2.7-doc binutils binfmt-support readline-doc
+Recommended packages:
+  libldap-common libgpm2 publicsuffix libsasl2-modules bzip2 file xz-utils
+  netbase psmisc
+The following NEW packages will be installed:
+  dirmngr gnupg gnupg-l10n gnupg-utils gosu gpg gpg-agent gpg-wks-client
+  gpg-wks-server gpgconf gpgsm libassuan0 libexpat1 libgdbm-compat4 libgdbm6
+  libksba8 libldap-2.4-2 libncurses6 libncursesw6 libnpth0 libperl5.32
+  libprocps8 libpsl5 libpython2-stdlib libpython2.7-minimal
+  libpython2.7-stdlib libreadline8 libsasl2-2 libsasl2-modules-db libsqlite3-0
+  mailcap media-types mime-support perl perl-modules-5.32 pinentry-curses
+  procps python-is-python2 python2 python2-minimal python2.7 python2.7-minimal
+  readline-common wget
+0 upgraded, 44 newly installed, 0 to remove and 16 not upgraded.
+Need to get 23.2 MB of archives.
+After this operation, 91.4 MB of additional disk space will be used.
+Get:1 http://deb.debian.org/debian bullseye/main amd64 perl-modules-5.32 all 5.32.1-4+deb11u2 [2823 kB]
+Get:2 http://deb.debian.org/debian bullseye/main amd64 libgdbm6 amd64 1.19-2 [64.9 kB]
+Get:3 http://deb.debian.org/debian bullseye/main amd64 libgdbm-compat4 amd64 1.19-2 [44.7 kB]
+Get:4 http://deb.debian.org/debian bullseye/main amd64 libperl5.32 amd64 5.32.1-4+deb11u2 [4106 kB]
+Get:5 http://deb.debian.org/debian bullseye/main amd64 perl amd64 5.32.1-4+deb11u2 [293 kB]
+Get:6 http://deb.debian.org/debian bullseye/main amd64 libpython2.7-minimal amd64 2.7.18-8 [396 kB]
+Get:7 http://deb.debian.org/debian bullseye/main amd64 python2.7-minimal amd64 2.7.18-8 [1322 kB]
+Get:8 http://deb.debian.org/debian bullseye/main amd64 python2-minimal amd64 2.7.18-3 [34.2 kB]
+Get:9 http://deb.debian.org/debian bullseye/main amd64 media-types all 4.0.0 [30.3 kB]
+Get:10 http://deb.debian.org/debian bullseye/main amd64 mailcap all 3.69 [31.7 kB]
+Get:11 http://deb.debian.org/debian bullseye/main amd64 mime-support all 3.66 [10.9 kB]
+Get:12 http://deb.debian.org/debian-security bullseye-security/main amd64 libexpat1 amd64 2.2.10-2+deb11u5 [98.2 kB]
+Get:13 http://deb.debian.org/debian bullseye/main amd64 libncursesw6 amd64 6.2+20201114-2 [132 kB]
+Get:14 http://deb.debian.org/debian bullseye/main amd64 readline-common all 8.1-1 [73.7 kB]
+Get:15 http://deb.debian.org/debian bullseye/main amd64 libreadline8 amd64 8.1-1 [169 kB]
+Get:16 http://deb.debian.org/debian bullseye/main amd64 libsqlite3-0 amd64 3.34.1-3 [797 kB]
+Get:17 http://deb.debian.org/debian bullseye/main amd64 libpython2.7-stdlib amd64 2.7.18-8 [1865 kB]
+Get:18 http://deb.debian.org/debian bullseye/main amd64 python2.7 amd64 2.7.18-8 [311 kB]
+Get:19 http://deb.debian.org/debian bullseye/main amd64 libpython2-stdlib amd64 2.7.18-3 [21.2 kB]
+Get:20 http://deb.debian.org/debian bullseye/main amd64 python2 amd64 2.7.18-3 [24.5 kB]
+Get:21 http://deb.debian.org/debian bullseye/main amd64 libncurses6 amd64 6.2+20201114-2 [102 kB]
+Get:22 http://deb.debian.org/debian bullseye/main amd64 libprocps8 amd64 2:3.3.17-5 [63.9 kB]
+Get:23 http://deb.debian.org/debian bullseye/main amd64 procps amd64 2:3.3.17-5 [502 kB]
+Get:24 http://deb.debian.org/debian bullseye/main amd64 libpsl5 amd64 0.21.0-1.2 [57.3 kB]
+Get:25 http://deb.debian.org/debian bullseye/main amd64 wget amd64 1.21-1+deb11u1 [964 kB]
+Get:26 http://deb.debian.org/debian bullseye/main amd64 libassuan0 amd64 2.5.3-7.1 [50.5 kB]
+Get:27 http://deb.debian.org/debian bullseye/main amd64 gpgconf amd64 2.2.27-2+deb11u2 [548 kB]
+Get:28 http://deb.debian.org/debian-security bullseye-security/main amd64 libksba8 amd64 1.5.0-3+deb11u1 [123 kB]
+Get:29 http://deb.debian.org/debian bullseye/main amd64 libsasl2-modules-db amd64 2.1.27+dfsg-2.1+deb11u1 [69.1 kB]
+Get:30 http://deb.debian.org/debian bullseye/main amd64 libsasl2-2 amd64 2.1.27+dfsg-2.1+deb11u1 [106 kB]
+Get:31 http://deb.debian.org/debian bullseye/main amd64 libldap-2.4-2 amd64 2.4.57+dfsg-3+deb11u1 [232 kB]
+Get:32 http://deb.debian.org/debian bullseye/main amd64 libnpth0 amd64 1.6-3 [19.0 kB]
+Get:33 http://deb.debian.org/debian bullseye/main amd64 dirmngr amd64 2.2.27-2+deb11u2 [763 kB]
+Get:34 http://deb.debian.org/debian bullseye/main amd64 gnupg-l10n all 2.2.27-2+deb11u2 [1086 kB]
+Get:35 http://deb.debian.org/debian bullseye/main amd64 gnupg-utils amd64 2.2.27-2+deb11u2 [905 kB]
+Get:36 http://deb.debian.org/debian bullseye/main amd64 gpg amd64 2.2.27-2+deb11u2 [928 kB]
+Get:37 http://deb.debian.org/debian bullseye/main amd64 pinentry-curses amd64 1.1.0-4 [64.9 kB]
+Get:38 http://deb.debian.org/debian bullseye/main amd64 gpg-agent amd64 2.2.27-2+deb11u2 [669 kB]
+Get:39 http://deb.debian.org/debian bullseye/main amd64 gpg-wks-client amd64 2.2.27-2+deb11u2 [524 kB]
+Get:40 http://deb.debian.org/debian bullseye/main amd64 gpg-wks-server amd64 2.2.27-2+deb11u2 [516 kB]
+Get:41 http://deb.debian.org/debian bullseye/main amd64 gpgsm amd64 2.2.27-2+deb11u2 [645 kB]
+Get:42 http://deb.debian.org/debian bullseye/main amd64 gnupg all 2.2.27-2+deb11u2 [825 kB]
+Get:43 http://deb.debian.org/debian bullseye/main amd64 gosu amd64 1.12-1+b6 [743 kB]
+Get:44 http://deb.debian.org/debian bullseye/main amd64 python-is-python2 all 2.7.18-9 [2940 B]
+debconf: delaying package configuration, since apt-utils is not installed
+Fetched 23.2 MB in 3s (8280 kB/s)
+Selecting previously unselected package perl-modules-5.32.
+(Reading database ... 7071 files and directories currently installed.)
+Preparing to unpack .../00-perl-modules-5.32_5.32.1-4+deb11u2_all.deb ...
+Unpacking perl-modules-5.32 (5.32.1-4+deb11u2) ...
+Selecting previously unselected package libgdbm6:amd64.
+Preparing to unpack .../01-libgdbm6_1.19-2_amd64.deb ...
+Unpacking libgdbm6:amd64 (1.19-2) ...
+Selecting previously unselected package libgdbm-compat4:amd64.
+Preparing to unpack .../02-libgdbm-compat4_1.19-2_amd64.deb ...
+Unpacking libgdbm-compat4:amd64 (1.19-2) ...
+Selecting previously unselected package libperl5.32:amd64.
+Preparing to unpack .../03-libperl5.32_5.32.1-4+deb11u2_amd64.deb ...
+Unpacking libperl5.32:amd64 (5.32.1-4+deb11u2) ...
+Selecting previously unselected package perl.
+Preparing to unpack .../04-perl_5.32.1-4+deb11u2_amd64.deb ...
+Unpacking perl (5.32.1-4+deb11u2) ...
+Selecting previously unselected package libpython2.7-minimal:amd64.
+Preparing to unpack .../05-libpython2.7-minimal_2.7.18-8_amd64.deb ...
+Unpacking libpython2.7-minimal:amd64 (2.7.18-8) ...
+Selecting previously unselected package python2.7-minimal.
+Preparing to unpack .../06-python2.7-minimal_2.7.18-8_amd64.deb ...
+Unpacking python2.7-minimal (2.7.18-8) ...
+Selecting previously unselected package python2-minimal.
+Preparing to unpack .../07-python2-minimal_2.7.18-3_amd64.deb ...
+Unpacking python2-minimal (2.7.18-3) ...
+Selecting previously unselected package media-types.
+Preparing to unpack .../08-media-types_4.0.0_all.deb ...
+Unpacking media-types (4.0.0) ...
+Selecting previously unselected package mailcap.
+Preparing to unpack .../09-mailcap_3.69_all.deb ...
+Unpacking mailcap (3.69) ...
+Selecting previously unselected package mime-support.
+Preparing to unpack .../10-mime-support_3.66_all.deb ...
+Unpacking mime-support (3.66) ...
+Selecting previously unselected package libexpat1:amd64.
+Preparing to unpack .../11-libexpat1_2.2.10-2+deb11u5_amd64.deb ...
+Unpacking libexpat1:amd64 (2.2.10-2+deb11u5) ...
+Selecting previously unselected package libncursesw6:amd64.
+Preparing to unpack .../12-libncursesw6_6.2+20201114-2_amd64.deb ...
+Unpacking libncursesw6:amd64 (6.2+20201114-2) ...
+Selecting previously unselected package readline-common.
+Preparing to unpack .../13-readline-common_8.1-1_all.deb ...
+Unpacking readline-common (8.1-1) ...
+Selecting previously unselected package libreadline8:amd64.
+Preparing to unpack .../14-libreadline8_8.1-1_amd64.deb ...
+Unpacking libreadline8:amd64 (8.1-1) ...
+Selecting previously unselected package libsqlite3-0:amd64.
+Preparing to unpack .../15-libsqlite3-0_3.34.1-3_amd64.deb ...
+Unpacking libsqlite3-0:amd64 (3.34.1-3) ...
+Selecting previously unselected package libpython2.7-stdlib:amd64.
+Preparing to unpack .../16-libpython2.7-stdlib_2.7.18-8_amd64.deb ...
+Unpacking libpython2.7-stdlib:amd64 (2.7.18-8) ...
+Selecting previously unselected package python2.7.
+Preparing to unpack .../17-python2.7_2.7.18-8_amd64.deb ...
+Unpacking python2.7 (2.7.18-8) ...
+Selecting previously unselected package libpython2-stdlib:amd64.
+Preparing to unpack .../18-libpython2-stdlib_2.7.18-3_amd64.deb ...
+Unpacking libpython2-stdlib:amd64 (2.7.18-3) ...
+Setting up libpython2.7-minimal:amd64 (2.7.18-8) ...
+Setting up python2.7-minimal (2.7.18-8) ...
+Setting up python2-minimal (2.7.18-3) ...
+Selecting previously unselected package python2.
+(Reading database ... 9870 files and directories currently installed.)
+Preparing to unpack .../00-python2_2.7.18-3_amd64.deb ...
+Unpacking python2 (2.7.18-3) ...
+Selecting previously unselected package libncurses6:amd64.
+Preparing to unpack .../01-libncurses6_6.2+20201114-2_amd64.deb ...
+Unpacking libncurses6:amd64 (6.2+20201114-2) ...
+Selecting previously unselected package libprocps8:amd64.
+Preparing to unpack .../02-libprocps8_2%3a3.3.17-5_amd64.deb ...
+Unpacking libprocps8:amd64 (2:3.3.17-5) ...
+Selecting previously unselected package procps.
+Preparing to unpack .../03-procps_2%3a3.3.17-5_amd64.deb ...
+Unpacking procps (2:3.3.17-5) ...
+Selecting previously unselected package libpsl5:amd64.
+Preparing to unpack .../04-libpsl5_0.21.0-1.2_amd64.deb ...
+Unpacking libpsl5:amd64 (0.21.0-1.2) ...
+Selecting previously unselected package wget.
+Preparing to unpack .../05-wget_1.21-1+deb11u1_amd64.deb ...
+Unpacking wget (1.21-1+deb11u1) ...
+Selecting previously unselected package libassuan0:amd64.
+Preparing to unpack .../06-libassuan0_2.5.3-7.1_amd64.deb ...
+Unpacking libassuan0:amd64 (2.5.3-7.1) ...
+Selecting previously unselected package gpgconf.
+Preparing to unpack .../07-gpgconf_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking gpgconf (2.2.27-2+deb11u2) ...
+Selecting previously unselected package libksba8:amd64.
+Preparing to unpack .../08-libksba8_1.5.0-3+deb11u1_amd64.deb ...
+Unpacking libksba8:amd64 (1.5.0-3+deb11u1) ...
+Selecting previously unselected package libsasl2-modules-db:amd64.
+Preparing to unpack .../09-libsasl2-modules-db_2.1.27+dfsg-2.1+deb11u1_amd64.deb ...
+Unpacking libsasl2-modules-db:amd64 (2.1.27+dfsg-2.1+deb11u1) ...
+Selecting previously unselected package libsasl2-2:amd64.
+Preparing to unpack .../10-libsasl2-2_2.1.27+dfsg-2.1+deb11u1_amd64.deb ...
+Unpacking libsasl2-2:amd64 (2.1.27+dfsg-2.1+deb11u1) ...
+Selecting previously unselected package libldap-2.4-2:amd64.
+Preparing to unpack .../11-libldap-2.4-2_2.4.57+dfsg-3+deb11u1_amd64.deb ...
+Unpacking libldap-2.4-2:amd64 (2.4.57+dfsg-3+deb11u1) ...
+Selecting previously unselected package libnpth0:amd64.
+Preparing to unpack .../12-libnpth0_1.6-3_amd64.deb ...
+Unpacking libnpth0:amd64 (1.6-3) ...
+Selecting previously unselected package dirmngr.
+Preparing to unpack .../13-dirmngr_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking dirmngr (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gnupg-l10n.
+Preparing to unpack .../14-gnupg-l10n_2.2.27-2+deb11u2_all.deb ...
+Unpacking gnupg-l10n (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gnupg-utils.
+Preparing to unpack .../15-gnupg-utils_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking gnupg-utils (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gpg.
+Preparing to unpack .../16-gpg_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking gpg (2.2.27-2+deb11u2) ...
+Selecting previously unselected package pinentry-curses.
+Preparing to unpack .../17-pinentry-curses_1.1.0-4_amd64.deb ...
+Unpacking pinentry-curses (1.1.0-4) ...
+Selecting previously unselected package gpg-agent.
+Preparing to unpack .../18-gpg-agent_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking gpg-agent (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gpg-wks-client.
+Preparing to unpack .../19-gpg-wks-client_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking gpg-wks-client (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gpg-wks-server.
+Preparing to unpack .../20-gpg-wks-server_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking gpg-wks-server (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gpgsm.
+Preparing to unpack .../21-gpgsm_2.2.27-2+deb11u2_amd64.deb ...
+Unpacking gpgsm (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gnupg.
+Preparing to unpack .../22-gnupg_2.2.27-2+deb11u2_all.deb ...
+Unpacking gnupg (2.2.27-2+deb11u2) ...
+Selecting previously unselected package gosu.
+Preparing to unpack .../23-gosu_1.12-1+b6_amd64.deb ...
+Unpacking gosu (1.12-1+b6) ...
+Selecting previously unselected package python-is-python2.
+Preparing to unpack .../24-python-is-python2_2.7.18-9_all.deb ...
+Unpacking python-is-python2 (2.7.18-9) ...
+Setting up libksba8:amd64 (1.5.0-3+deb11u1) ...
+Setting up libexpat1:amd64 (2.2.10-2+deb11u5) ...
+Setting up media-types (4.0.0) ...
+Setting up libpsl5:amd64 (0.21.0-1.2) ...
+Setting up wget (1.21-1+deb11u1) ...
+Setting up perl-modules-5.32 (5.32.1-4+deb11u2) ...
+Setting up libsqlite3-0:amd64 (3.34.1-3) ...
+Setting up libnpth0:amd64 (1.6-3) ...
+Setting up libassuan0:amd64 (2.5.3-7.1) ...
+Setting up libsasl2-modules-db:amd64 (2.1.27+dfsg-2.1+deb11u1) ...
+Setting up gnupg-l10n (2.2.27-2+deb11u2) ...
+Setting up gosu (1.12-1+b6) ...
+Setting up libncurses6:amd64 (6.2+20201114-2) ...
+Setting up libncursesw6:amd64 (6.2+20201114-2) ...
+Setting up libsasl2-2:amd64 (2.1.27+dfsg-2.1+deb11u1) ...
+Setting up readline-common (8.1-1) ...
+Setting up libprocps8:amd64 (2:3.3.17-5) ...
+Setting up libgdbm6:amd64 (1.19-2) ...
+Setting up pinentry-curses (1.1.0-4) ...
+Setting up libreadline8:amd64 (8.1-1) ...
+Setting up libldap-2.4-2:amd64 (2.4.57+dfsg-3+deb11u1) ...
+Setting up libgdbm-compat4:amd64 (1.19-2) ...
+Setting up libperl5.32:amd64 (5.32.1-4+deb11u2) ...
+Setting up procps (2:3.3.17-5) ...
+Setting up gpgconf (2.2.27-2+deb11u2) ...
+Setting up gpg (2.2.27-2+deb11u2) ...
+Setting up gnupg-utils (2.2.27-2+deb11u2) ...
+Setting up gpg-agent (2.2.27-2+deb11u2) ...
+Setting up gpgsm (2.2.27-2+deb11u2) ...
+Setting up dirmngr (2.2.27-2+deb11u2) ...
+Setting up perl (5.32.1-4+deb11u2) ...
+Setting up gpg-wks-server (2.2.27-2+deb11u2) ...
+Setting up mailcap (3.69) ...
+Setting up mime-support (3.66) ...
+Setting up gpg-wks-client (2.2.27-2+deb11u2) ...
+Setting up libpython2.7-stdlib:amd64 (2.7.18-8) ...
+Setting up gnupg (2.2.27-2+deb11u2) ...
+Setting up python2.7 (2.7.18-8) ...
+Setting up libpython2-stdlib:amd64 (2.7.18-3) ...
+Setting up python2 (2.7.18-3) ...
+Setting up python-is-python2 (2.7.18-9) ...
+Processing triggers for libc-bin (2.31-13+deb11u3) ...
++ rm -rf /var/lib/apt/lists/auxfiles /var/lib/apt/lists/deb.debian.org_debian-security_dists_bullseye-security_InRelease /var/lib/apt/lists/deb.debian.org_debian-security_dists_bullseye-security_main_binary-amd64_Packages.lz4 /var/lib/apt/lists/deb.debian.org_debian_dists_bullseye-updates_InRelease /var/lib/apt/lists/deb.debian.org_debian_dists_bullseye-updates_main_binary-amd64_Packages.lz4 /var/lib/apt/lists/deb.debian.org_debian_dists_bullseye_InRelease /var/lib/apt/lists/deb.debian.org_debian_dists_bullseye_main_binary-amd64_Packages.lz4 /var/lib/apt/lists/lock /var/lib/apt/lists/partial
++ gosu nobody true
+Removing intermediate container f7ca4a1024c6
+ ---> 3cc022f87cf8
+Step 5/11 : ARG GPG_KEY=79B03D059E628478FC9F1D8B152CAD0C46E87B61
+ ---> Running in dc57e56ed3f8
+Removing intermediate container dc57e56ed3f8
+ ---> 7b61dd0bc7bb
+Step 6/11 : ARG DISTRO_NAME=apache-storm-2.2.0
+ ---> Running in 2f64bcb408c3
+Removing intermediate container 2f64bcb408c3
+ ---> 06a499008e80
+Step 7/11 : RUN set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"
+ ---> Running in 3ba35e6e2bae
++ ddist apache-storm-2.2.0.tar.gz storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ local f=apache-storm-2.2.0.tar.gz
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ [ -s apache-storm-2.2.0.tar.gz ]
++ success=1
++ break
++ [ -n 1 ]
++ ddist apache-storm-2.2.0.tar.gz.asc storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ local f=apache-storm-2.2.0.tar.gz.asc
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz.asc http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ [ -s apache-storm-2.2.0.tar.gz.asc ]
++ success=1
++ break
++ [ -n 1 ]
++ mktemp -d
++ export GNUPGHOME=/tmp/tmp.b8v7617yoQ
++ gpg --keyserver ha.pool.sks-keyservers.net --recv-key 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keybox '/tmp/tmp.b8v7617yoQ/pubring.kbx' created
+gpg: keyserver receive failed: Server indicated a failure
++ gpg --keyserver pgp.mit.edu --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: No keyserver available
++ gpg --keyserver keyserver.pgp.com --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: Connection timed out
+The command '/bin/sh -c set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"' returned a non-zero code: 2
+
+real	3m44.252s
+user	0m0.029s
+sys	0m0.027s
+[INFO]Test  storm_2.2.0 - 1 , default =  365443799
+Error occurs in default test, possibly dur to unstable network, the image build will be restart ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  storm_2.2.0 - 1  default test ...
+Sending build context to Docker daemon  5.632kB
+Step 1/11 : FROM openjdk:8-jre-slim
+ ---> 85b121affedd
+Step 2/11 : ENV STORM_CONF_DIR=/conf     STORM_DATA_DIR=/data     STORM_LOG_DIR=/logs
+ ---> Using cache
+ ---> f18710387d6b
+Step 3/11 : RUN set -eux;     groupadd -r storm --gid=1000;     useradd -r -g storm --uid=1000 storm;     mkdir -p "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR";     chown -R storm:storm "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR"``
+ ---> Using cache
+ ---> ddf7dae23f44
+Step 4/11 : RUN set -eux;     apt-get update;     DEBIAN_FRONTEND=noninteractive     apt-get install -y --no-install-recommends         bash         ca-certificates         dirmngr         gosu         gnupg         python         procps         wget;     rm -rf /var/lib/apt/lists/*;     gosu nobody true
+ ---> Using cache
+ ---> 3cc022f87cf8
+Step 5/11 : ARG GPG_KEY=79B03D059E628478FC9F1D8B152CAD0C46E87B61
+ ---> Using cache
+ ---> 7b61dd0bc7bb
+Step 6/11 : ARG DISTRO_NAME=apache-storm-2.2.0
+ ---> Using cache
+ ---> 06a499008e80
+Step 7/11 : RUN set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"
+ ---> Running in 10a1ad117dac
++ ddist apache-storm-2.2.0.tar.gz storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ local f=apache-storm-2.2.0.tar.gz
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ [ -s apache-storm-2.2.0.tar.gz ]
++ success=1
++ break
++ [ -n 1 ]
++ ddist apache-storm-2.2.0.tar.gz.asc storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ local f=apache-storm-2.2.0.tar.gz.asc
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz.asc http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ [ -s apache-storm-2.2.0.tar.gz.asc ]
++ success=1
++ break
++ [ -n 1 ]
++ mktemp -d
++ export GNUPGHOME=/tmp/tmp.naWZPMOEZn
++ gpg --keyserver ha.pool.sks-keyservers.net --recv-key 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keybox '/tmp/tmp.naWZPMOEZn/pubring.kbx' created
+gpg: keyserver receive failed: Server indicated a failure
++ gpg --keyserver pgp.mit.edu --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: No keyserver available
++ gpg --keyserver keyserver.pgp.com --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: Connection timed out
+The command '/bin/sh -c set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"' returned a non-zero code: 2
+
+real	9m42.684s
+user	0m0.097s
+sys	0m0.048s
+[INFO]Test  storm_2.2.0 - 1 , default =  333163854
+Error occurs in default test, possibly dur to unstable network, the image build will be restart ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  storm_2.2.0 - 1  default test ...
+
+real	2m59.190s
+user	0m0.028s
+sys	0m0.029s
+[INFO]Test  storm_2.2.0 - 1 , default =  332164076
+sha256:531d041608771364c184f9d193a77cf42724900528a163fadc5926900e1f6b04
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 2  default test ...
+
+real	2m29.764s
+user	0m0.035s
+sys	0m0.024s
+[INFO]Test  storm_2.2.0 - 2 , default =  332167447
+sha256:3c2fc49fac7e285e86d581003a8e91652e2a9cc66f1197f3f27d9ab3795aca04
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 3  default test ...
+Sending build context to Docker daemon  5.632kB
+Step 1/11 : FROM openjdk:8-jre-slim
+ ---> 85b121affedd
+Step 2/11 : ENV STORM_CONF_DIR=/conf     STORM_DATA_DIR=/data     STORM_LOG_DIR=/logs
+ ---> Using cache
+ ---> f18710387d6b
+Step 3/11 : RUN set -eux;     groupadd -r storm --gid=1000;     useradd -r -g storm --uid=1000 storm;     mkdir -p "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR";     chown -R storm:storm "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR"``
+ ---> Using cache
+ ---> ddf7dae23f44
+Step 4/11 : RUN set -eux;     apt-get update;     DEBIAN_FRONTEND=noninteractive     apt-get install -y --no-install-recommends         bash         ca-certificates         dirmngr         gosu         gnupg         python         procps         wget;     rm -rf /var/lib/apt/lists/*;     gosu nobody true
+ ---> Using cache
+ ---> 3cc022f87cf8
+Step 5/11 : ARG GPG_KEY=79B03D059E628478FC9F1D8B152CAD0C46E87B61
+ ---> Using cache
+ ---> 7b61dd0bc7bb
+Step 6/11 : ARG DISTRO_NAME=apache-storm-2.2.0
+ ---> Using cache
+ ---> 06a499008e80
+Step 7/11 : RUN set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"
+ ---> Running in 413f65c56c2f
++ ddist apache-storm-2.2.0.tar.gz storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ local f=apache-storm-2.2.0.tar.gz
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ [ -s apache-storm-2.2.0.tar.gz ]
++ success=1
++ break
++ [ -n 1 ]
++ ddist apache-storm-2.2.0.tar.gz.asc storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ local f=apache-storm-2.2.0.tar.gz.asc
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz.asc http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ [ -s apache-storm-2.2.0.tar.gz.asc ]
++ success=1
++ break
++ [ -n 1 ]
++ mktemp -d
++ export GNUPGHOME=/tmp/tmp.didFi5Ib7o
++ gpg --keyserver ha.pool.sks-keyservers.net --recv-key 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keybox '/tmp/tmp.didFi5Ib7o/pubring.kbx' created
+gpg: keyserver receive failed: Server indicated a failure
++ gpg --keyserver pgp.mit.edu --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: No keyserver available
++ gpg --keyserver keyserver.pgp.com --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: Connection timed out
+The command '/bin/sh -c set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"' returned a non-zero code: 2
+
+real	10m40.166s
+user	0m0.117s
+sys	0m0.024s
+[INFO]Test  storm_2.2.0 - 3 , default =  332141239
+Error occurs in default test, possibly dur to unstable network, the image build will be restart ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  storm_2.2.0 - 3  default test ...
+Sending build context to Docker daemon  5.632kB
+Step 1/11 : FROM openjdk:8-jre-slim
+ ---> 85b121affedd
+Step 2/11 : ENV STORM_CONF_DIR=/conf     STORM_DATA_DIR=/data     STORM_LOG_DIR=/logs
+ ---> Using cache
+ ---> f18710387d6b
+Step 3/11 : RUN set -eux;     groupadd -r storm --gid=1000;     useradd -r -g storm --uid=1000 storm;     mkdir -p "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR";     chown -R storm:storm "$STORM_CONF_DIR" "$STORM_DATA_DIR" "$STORM_LOG_DIR"``
+ ---> Using cache
+ ---> ddf7dae23f44
+Step 4/11 : RUN set -eux;     apt-get update;     DEBIAN_FRONTEND=noninteractive     apt-get install -y --no-install-recommends         bash         ca-certificates         dirmngr         gosu         gnupg         python         procps         wget;     rm -rf /var/lib/apt/lists/*;     gosu nobody true
+ ---> Using cache
+ ---> 3cc022f87cf8
+Step 5/11 : ARG GPG_KEY=79B03D059E628478FC9F1D8B152CAD0C46E87B61
+ ---> Using cache
+ ---> 7b61dd0bc7bb
+Step 6/11 : ARG DISTRO_NAME=apache-storm-2.2.0
+ ---> Using cache
+ ---> 06a499008e80
+Step 7/11 : RUN set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"
+ ---> Running in 89634b38af54
++ ddist apache-storm-2.2.0.tar.gz storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ local f=apache-storm-2.2.0.tar.gz
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz
++ [ -s apache-storm-2.2.0.tar.gz ]
++ success=1
++ break
++ [ -n 1 ]
++ ddist apache-storm-2.2.0.tar.gz.asc storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ local f=apache-storm-2.2.0.tar.gz.asc
++ shift
++ local distFile=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ shift
++ local success=
++ local distUrl=
++ wget -q -O apache-storm-2.2.0.tar.gz.asc http://www.apache.org/dyn/closer.cgi?action=download&filename=storm/apache-storm-2.2.0/apache-storm-2.2.0.tar.gz.asc
++ [ -s apache-storm-2.2.0.tar.gz.asc ]
++ success=1
++ break
++ [ -n 1 ]
++ mktemp -d
++ export GNUPGHOME=/tmp/tmp.KlX3ydyQUt
++ gpg --keyserver ha.pool.sks-keyservers.net --recv-key 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keybox '/tmp/tmp.KlX3ydyQUt/pubring.kbx' created
+gpg: keyserver receive failed: Server indicated a failure
++ gpg --keyserver pgp.mit.edu --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: No keyserver available
++ gpg --keyserver keyserver.pgp.com --recv-keys 79B03D059E628478FC9F1D8B152CAD0C46E87B61
+gpg: keyserver receive failed: Connection timed out
+The command '/bin/sh -c set -eux;     ddist() {         local f="$1"; shift;         local distFile="$1"; shift;         local success=;         local distUrl=;         for distUrl in             'http://www.apache.org/dyn/closer.cgi?action=download&filename='             http://www-us.apache.org/dist/             http://www.apache.org/dist/             http://archive.apache.org/dist/         ; do             if wget -q -O "$f" "$distUrl$distFile" && [ -s "$f" ]; then                 success=1;                 break;             fi;         done;         [ -n "$success" ];     };     ddist "$DISTRO_NAME.tar.gz" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz";     ddist "$DISTRO_NAME.tar.gz.asc" "storm/$DISTRO_NAME/$DISTRO_NAME.tar.gz.asc";     export GNUPGHOME="$(mktemp -d)";     gpg --keyserver ha.pool.sks-keyservers.net --recv-key "$GPG_KEY" ||     gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" ||     gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY";     gpg --batch --verify "$DISTRO_NAME.tar.gz.asc" "$DISTRO_NAME.tar.gz";     tar -xzf "$DISTRO_NAME.tar.gz";     rm -rf "$GNUPGHOME" "$DISTRO_NAME.tar.gz" "$DISTRO_NAME.tar.gz.asc";     chown -R storm:storm "$DISTRO_NAME"' returned a non-zero code: 2
+
+real	4m5.922s
+user	0m0.051s
+sys	0m0.017s
+[INFO]Test  storm_2.2.0 - 3 , default =  332137502
+Error occurs in default test, possibly dur to unstable network, the image build will be restart ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  storm_2.2.0 - 3  default test ...
+
+real	10m17.118s
+user	0m0.106s
+sys	0m0.026s
+[INFO]Test  storm_2.2.0 - 3 , default =  332144334
+sha256:d0a939c0a85334db89d7075bfe99e066d11d79cbe252e30c7f02c175403085b8
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 4  default test ...
+
+real	11m24.814s
+user	0m0.103s
+sys	0m0.043s
+[INFO]Test  storm_2.2.0 - 4 , default =  332147849
+sha256:278d8fb6aa8b7b4c69dc33581e8aeb1eaf5416765031f8b9c31c92a057c2de8e
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 5  default test ...
+
+real	10m53.064s
+user	0m0.040s
+sys	0m0.097s
+[INFO]Test  storm_2.2.0 - 5 , default =  349582694
+sha256:4431b14e9f6c4a1df3183fb4074f82d1c16a1fb41a7ba61f11f2a6edc85501dd
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 1  cached test ...
+
+real	0m50.930s
+user	0m0.022s
+sys	0m0.011s
+[INFO]Test  storm_2.2.0 - 1 , cached =  11169956
+sha256:7c2d3449a099cdf1725d628ea536d1a8fa8bfcf0465bca625378714188d7ecc6
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 2  cached test ...
+
+real	0m56.187s
+user	0m0.011s
+sys	0m0.026s
+[INFO]Test  storm_2.2.0 - 2 , cached =  11489266
+sha256:76d3f584ebd5dd53eb94526a382bbc5bcbc92158aceb6fb009ede2308296fc4c
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 3  cached test ...
+
+real	0m47.241s
+user	0m0.016s
+sys	0m0.020s
+[INFO]Test  storm_2.2.0 - 3 , cached =  11326222
+sha256:fd348fdbbbdd71e200791eb3363e6544da2c75d1a70fdc497e5a0427000d90d0
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 4  cached test ...
+
+real	0m57.855s
+user	0m0.020s
+sys	0m0.012s
+[INFO]Test  storm_2.2.0 - 4 , cached =  11891704
+sha256:f2a90e0b4c77602367eafe47dd4c70a2bed48ce9c2ce759d896e3f66a59b0959
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.2.0 - 5  cached test ...
+
+real	0m53.490s
+user	0m0.016s
+sys	0m0.018s
+[INFO]Test  storm_2.2.0 - 5 , cached =  11724303
+sha256:1d72265e7d68c5238534ef1895dcbebee2cd2aa38e760da00804d674c2201cea
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  storm_2.3.0  ...
+
+real	1m56.323s
+user	0m0.021s
+sys	0m0.023s
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 1  default test ...
+
+real	1m36.505s
+user	0m0.017s
+sys	0m0.019s
+[INFO]Test  storm_2.3.0 - 1 , default =  372817254
+sha256:42591f709e3e9645e2243e85ee41552ae9d8a06f9c0f59e0cdd5a2c681f8b6de
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 2  default test ...
+
+real	1m18.632s
+user	0m0.022s
+sys	0m0.014s
+[INFO]Test  storm_2.3.0 - 2 , default =  371992710
+sha256:0d5a5552d4eba0f563f36446470a20593c648211092e5d3d0e14825af5bc6d00
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 3  default test ...
+
+real	1m15.689s
+user	0m0.016s
+sys	0m0.019s
+[INFO]Test  storm_2.3.0 - 3 , default =  371922935
+sha256:0bbe025ebdd3ff901b5d589b68d8269be7f032c099258a398b3cfeab4f810697
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 4  default test ...
+
+real	1m23.649s
+user	0m0.023s
+sys	0m0.010s
+[INFO]Test  storm_2.3.0 - 4 , default =  372329150
+sha256:181a53b4ba7dfeb6331253344e9fddb51490f17f650d2956bd76cdb7f886be87
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 5  default test ...
+
+real	1m19.529s
+user	0m0.013s
+sys	0m0.022s
+[INFO]Test  storm_2.3.0 - 5 , default =  372084744
+sha256:7f7178ea685b8d54d225b9f9beef3c822bb432b32448802fecb33466bdbdb535
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 1  cached test ...
+
+real	0m40.090s
+user	0m0.022s
+sys	0m0.013s
+[INFO]Test  storm_2.3.0 - 1 , cached =  11260055
+sha256:018a11d31929e3c2c94f3e5d43102e5902b1b5e6a1555869ad7f894ef4dd43a0
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 2  cached test ...
+
+real	0m39.991s
+user	0m0.021s
+sys	0m0.016s
+[INFO]Test  storm_2.3.0 - 2 , cached =  11266694
+sha256:85e14f017f04c93d3c4573e7e046c682f9645a7d15d7a39ab7b9bf5a79607422
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 3  cached test ...
+
+real	0m45.541s
+user	0m0.015s
+sys	0m0.019s
+[INFO]Test  storm_2.3.0 - 3 , cached =  11562185
+sha256:d52be769a53c70fcb953c7629c7151175079575d6e4430c8e9a90b618d37b8b4
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 4  cached test ...
+
+real	0m40.676s
+user	0m0.010s
+sys	0m0.026s
+[INFO]Test  storm_2.3.0 - 4 , cached =  11302908
+sha256:bb1e950a526c13e5766840972636a56669b395bb801360545cec29fa43df128a
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.3.0 - 5  cached test ...
+
+real	0m39.544s
+user	0m0.010s
+sys	0m0.025s
+[INFO]Test  storm_2.3.0 - 5 , cached =  11224910
+sha256:d4fa5946269088a93c22192580fe93d52b49b4e07589511e76c596e5e04e3318
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  storm_2.4.0  ...
+
+real	1m42.380s
+user	0m0.022s
+sys	0m0.017s
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 1  default test ...
+
+real	1m24.104s
+user	0m0.022s
+sys	0m0.013s
+[INFO]Test  storm_2.4.0 - 1 , default =  375750982
+sha256:4e26d500d7ce686f680c08ad6e9222ac2c4ea33097150248c651247d9cd98d93
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 2  default test ...
+
+real	1m24.427s
+user	0m0.006s
+sys	0m0.031s
+[INFO]Test  storm_2.4.0 - 2 , default =  375801165
+sha256:343c10b7fd3401ea89162803341f50e5c69924f552635e68910b769cc963bf9b
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 3  default test ...
+
+real	1m18.666s
+user	0m0.025s
+sys	0m0.010s
+[INFO]Test  storm_2.4.0 - 3 , default =  375471579
+sha256:7e9918ad47905a71a322c0334d9e6dbd5e5e8faf45b1132aee8e41dee52dcd8a
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 4  default test ...
+
+real	1m21.138s
+user	0m0.019s
+sys	0m0.018s
+[INFO]Test  storm_2.4.0 - 4 , default =  375596053
+sha256:d146dbe20f76a4ea055dd1d9a06ff6e67a4a2f6c1f3ac7dd21b62e74067b6787
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 5  default test ...
+
+real	1m17.928s
+user	0m0.024s
+sys	0m0.013s
+[INFO]Test  storm_2.4.0 - 5 , default =  375383874
+sha256:229050faf422f47526a567902f72b707104985232f4d5ff126ac1a49077c668a
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 1  cached test ...
+
+real	0m45.608s
+user	0m0.017s
+sys	0m0.016s
+[INFO]Test  storm_2.4.0 - 1 , cached =  11624109
+sha256:d3f21837da51ad5562ec837bf60711744b9945049006b2685d9280ca3325a339
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 2  cached test ...
+
+real	0m38.259s
+user	0m0.010s
+sys	0m0.025s
+[INFO]Test  storm_2.4.0 - 2 , cached =  11175785
+sha256:486f37847515dfb4e83c925cf29d77b165e2228db6166f5450a9d34fac061e60
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 3  cached test ...
+
+real	0m41.457s
+user	0m0.017s
+sys	0m0.018s
+[INFO]Test  storm_2.4.0 - 3 , cached =  11316360
+sha256:d6f05590ca742bd78f974181a69faf34f2190e5b3675af05e0b28150cc9da733
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 4  cached test ...
+
+real	0m40.603s
+user	0m0.021s
+sys	0m0.013s
+[INFO]Test  storm_2.4.0 - 4 , cached =  11328338
+sha256:5c032657a2e19c6cde280e2bb8f4cbaebef1ec7343eaefefd82b57417afa9fe9
+[INFO]Clean the test image ...
+[INFO]Start  storm_2.4.0 - 5  cached test ...
+
+real	0m41.333s
+user	0m0.015s
+sys	0m0.020s
+[INFO]Test  storm_2.4.0 - 5 , cached =  11347640
+sha256:daf108cef999df92044e47cc2eb95547befb2b2ebe6c34b4b7545b5ac913b883
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  storm_latest  ...
+
+real	1m19.342s
+user	0m0.013s
+sys	0m0.023s
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 1  default test ...
+
+real	1m31.044s
+user	0m0.029s
+sys	0m0.007s
+[INFO]Test  storm_latest - 1 , default =  377470039
+sha256:f7d78cc75de2e2b735fdfd3cca954d271c2dd5adc4cb8a28f6243355caa30102
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 2  default test ...
+
+real	1m32.878s
+user	0m0.023s
+sys	0m0.013s
+[INFO]Test  storm_latest - 2 , default =  377566922
+sha256:6a719f63f837c8c5e83309a6077f8335d1539460207bda6546ebbaf8a4344ff1
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 3  default test ...
+
+real	1m30.608s
+user	0m0.023s
+sys	0m0.013s
+[INFO]Test  storm_latest - 3 , default =  377486140
+sha256:ecff51d7d6796bd0f55524cf947c5f21ba16b3d08caef6d2f98baa7329fddd32
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 4  default test ...
+
+real	1m25.825s
+user	0m0.029s
+sys	0m0.008s
+[INFO]Test  storm_latest - 4 , default =  377103760
+sha256:864110a6b429cd86a1f3b065a5421d5a803b9d2b657a718f3a8a4a13fd0f7c0d
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 5  default test ...
+
+real	1m26.520s
+user	0m0.020s
+sys	0m0.016s
+[INFO]Test  storm_latest - 5 , default =  377140209
+sha256:0edbfb162e47af0d9330a4088d477c64e0f9a2c4b0edc520cde6e66eb0668638
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 1  cached test ...
+
+real	0m56.860s
+user	0m0.004s
+sys	0m0.028s
+[INFO]Test  storm_latest - 1 , cached =  29302106
+sha256:b4b5df47c72fcc8ee5eaf7b2b261eb9141af3931162624538a3b9f4fd953a471
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 2  cached test ...
+
+real	0m57.479s
+user	0m0.018s
+sys	0m0.018s
+[INFO]Test  storm_latest - 2 , cached =  29320298
+sha256:567b079274625703ea9a4db5c0a4e6a0ee1aff7cf371569c88c9bc413bdf0735
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 3  cached test ...
+
+real	30m56.862s
+user	0m0.245s
+sys	0m0.032s
+[INFO]Test  storm_latest - 3 , cached =  136056586
+sha256:4f3e3172527630a205e5a8f00bea6e38fa80a7d9ae79ebbf4919ae3f43d8b7bc
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 4  cached test ...
+
+real	15m57.574s
+user	0m0.118s
+sys	0m0.052s
+[INFO]Test  storm_latest - 4 , cached =  92849958
+sha256:5813e4e007f9413df2bc1baaa9c8351a53625cdd207ab8bbf1cf5f0e124fc5cb
+[INFO]Clean the test image ...
+[INFO]Start  storm_latest - 5  cached test ...
+
+real	0m55.444s
+user	0m0.031s
+sys	0m0.010s
+[INFO]Test  storm_latest - 5 , cached =  29860104
+sha256:6683244480c550bf8e6de90ade2f1c2b7ba020dc9b3e0ea21a12c5c891d64d01
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  ubuntu_18.04  ...
+
+real	0m2.807s
+user	0m0.016s
+sys	0m0.059s
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 1  default test ...
+
+real	0m2.073s
+user	0m0.028s
+sys	0m0.038s
+[INFO]Test  ubuntu_18.04 - 1 , default =  146177
+sha256:e3ab0f3cc04af416df588ac73006225cace8d0a529c7969736780894d4b63337
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 2  default test ...
+
+real	0m2.111s
+user	0m0.044s
+sys	0m0.017s
+[INFO]Test  ubuntu_18.04 - 2 , default =  148106
+sha256:20d532b8bb7acd7dae4d529d8df20b302cc264a634562e8a9636e5afd035f9b5
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 3  default test ...
+
+real	0m2.107s
+user	0m0.028s
+sys	0m0.038s
+[INFO]Test  ubuntu_18.04 - 3 , default =  147464
+sha256:62401936961e4848b821e703555ec65e61d0edb8ab61e56acb79b21c77c51007
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 4  default test ...
+
+real	0m2.106s
+user	0m0.034s
+sys	0m0.031s
+[INFO]Test  ubuntu_18.04 - 4 , default =  148106
+sha256:c6471894c44f302a86b5f829a7e09e0fed731b5e544d9f3bed2ba36abd04f0b5
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 5  default test ...
+
+real	0m2.113s
+user	0m0.025s
+sys	0m0.041s
+[INFO]Test  ubuntu_18.04 - 5 , default =  148749
+sha256:cbb9c6628673d06307f531ed224228080b3014bbdc13eb56c3095c34e2fc8b08
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 1  cached test ...
+
+real	0m2.097s
+user	0m0.048s
+sys	0m0.015s
+[INFO]Test  ubuntu_18.04 - 1 , cached =  148238
+sha256:2308120c4b2bb71dcbe1e6a98ab8568998b2b81499db3541872bb80703601bc7
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 2  cached test ...
+
+real	0m2.127s
+user	0m0.036s
+sys	0m0.031s
+[INFO]Test  ubuntu_18.04 - 2 , cached =  149392
+sha256:d9e658ac48411fe50b6c1c48e2f76e81fc0fa569be01ec06cd70bc75525ef20d
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 3  cached test ...
+
+real	0m4.675s
+user	0m0.021s
+sys	0m0.044s
+[INFO]Test  ubuntu_18.04 - 3 , cached =  330059
+sha256:26b1bb33a774320a5e6804952e7dbc2be652facb303117b5971e5fc45a8bbc62
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 4  cached test ...
+
+real	0m3.229s
+user	0m0.032s
+sys	0m0.030s
+[INFO]Test  ubuntu_18.04 - 4 , cached =  224808
+sha256:1b20e0aeacc6daff21d2cb03140bf636310bfbcb60e6d24426b02509ec7712d5
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_18.04 - 5  cached test ...
+
+real	0m2.136s
+user	0m0.023s
+sys	0m0.043s
+[INFO]Test  ubuntu_18.04 - 5 , cached =  152878
+sha256:4419f1f9533c1a0bc02943010415f143654f1203b63c8ec63fa2cbc779a99697
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  ubuntu_20.04  ...
+
+real	0m2.421s
+user	0m0.043s
+sys	0m0.039s
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 1  default test ...
+
+real	0m2.330s
+user	0m0.042s
+sys	0m0.030s
+[INFO]Test  ubuntu_20.04 - 1 , default =  166221
+sha256:564ceefcccbcc55c04c512769d79482289bc2e8b6c4d991c011617c7a8ebc49e
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 2  default test ...
+
+real	0m2.335s
+user	0m0.035s
+sys	0m0.033s
+[INFO]Test  ubuntu_20.04 - 2 , default =  166926
+sha256:f2116c86aaf6021ea1175ebc3c6134aa6bf9039ef7a4a7b46d51483aeee4d1dc
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 3  default test ...
+
+real	0m4.048s
+user	0m0.007s
+sys	0m0.061s
+[INFO]Test  ubuntu_20.04 - 3 , default =  288174
+sha256:86a8b14ef4230cc191191ecb95d23a969802fc51397863035502e8421f46e861
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 4  default test ...
+
+real	0m4.686s
+user	0m0.045s
+sys	0m0.020s
+[INFO]Test  ubuntu_20.04 - 4 , default =  335144
+sha256:4c4ca3e3b078e1fa168e8c268da90985c22fc7af09f0b2e6752456e0d97aac22
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 5  default test ...
+
+real	0m2.528s
+user	0m0.029s
+sys	0m0.039s
+[INFO]Test  ubuntu_20.04 - 5 , default =  181656
+sha256:3f7f073251477cef6cb36807a7ef1515ec5ffc7ffba0111543e5280741d30a38
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 1  cached test ...
+
+real	0m3.167s
+user	0m0.034s
+sys	0m0.036s
+[INFO]Test  ubuntu_20.04 - 1 , cached =  227646
+sha256:7274ecb5140c314ac3974f130864710f33b52365cc6339a10b524127d84416a9
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 2  cached test ...
+
+real	0m3.207s
+user	0m0.029s
+sys	0m0.039s
+[INFO]Test  ubuntu_20.04 - 2 , cached =  231149
+sha256:9b36f37bdfdc4c24c6b899aa41b41de356f8f8dc09b5c4e1e967ae2a421767ac
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 3  cached test ...
+
+real	0m3.412s
+user	0m0.048s
+sys	0m0.024s
+[INFO]Test  ubuntu_20.04 - 3 , cached =  240837
+sha256:378ee993f439b0473b5e1169c0a35a684f7e4e197cae3b158bb6411b00d3671d
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 4  cached test ...
+
+real	0m3.165s
+user	0m0.018s
+sys	0m0.052s
+[INFO]Test  ubuntu_20.04 - 4 , cached =  228830
+sha256:c8dbd9588d0ce74b769f5ddd66fd42c42033aa895f330563d13e9982035cca50
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_20.04 - 5  cached test ...
+
+real	0m2.515s
+user	0m0.024s
+sys	0m0.045s
+[INFO]Test  ubuntu_20.04 - 5 , cached =  179570
+sha256:f5c6675392ee50856d7c05c740dfde87d8d028eb0f6efeccea78682bf15e5b27
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  ubuntu_22.04  ...
+
+real	0m3.073s
+user	0m0.039s
+sys	0m0.035s
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 1  default test ...
+
+real	0m3.039s
+user	0m0.044s
+sys	0m0.027s
+[INFO]Test  ubuntu_22.04 - 1 , default =  216788
+sha256:69f4bac54c2ac8240d88de1ca235cef12c6ed4bdf5dc2797115b3226f3835b73
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 2  default test ...
+
+real	0m8.320s
+user	0m0.031s
+sys	0m0.040s
+[INFO]Test  ubuntu_22.04 - 2 , default =  594251
+sha256:d31e23ccf6b1e0af30d318acf0d41591e1f1c00ed8bd1315d03295a13a41f163
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 3  default test ...
+
+real	0m3.226s
+user	0m0.041s
+sys	0m0.030s
+[INFO]Test  ubuntu_22.04 - 3 , default =  229815
+sha256:efcb88cfda7090a265a6eb0dfe2cdf32b4d6f9511c02829fb11781b7b4a030c7
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 4  default test ...
+
+real	0m2.384s
+user	0m0.041s
+sys	0m0.029s
+[INFO]Test  ubuntu_22.04 - 4 , default =  167081
+sha256:ac8b3b4f546afda9e18349b471dd8e5d34dd8220a165cb48aa54dcf89bcc2c4c
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 5  default test ...
+
+real	0m2.582s
+user	0m0.037s
+sys	0m0.029s
+[INFO]Test  ubuntu_22.04 - 5 , default =  181760
+sha256:bc1bd8a4241fcae7a3c044caf23365159e2f5013a31643e54b92dcfc2abde5fb
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 1  cached test ...
+
+real	0m2.472s
+user	0m0.032s
+sys	0m0.037s
+[INFO]Test  ubuntu_22.04 - 1 , cached =  173886
+sha256:96d7358b79d2726f75634726bd8504647708ca93202a3633b87f95002813db29
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 2  cached test ...
+
+real	0m2.409s
+user	0m0.019s
+sys	0m0.048s
+[INFO]Test  ubuntu_22.04 - 2 , cached =  171616
+sha256:005a5de29312d7f8b7a8059e773e4de6eca0f84fc9d6223eec273cc052f5ed96
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 3  cached test ...
+
+real	0m2.913s
+user	0m0.025s
+sys	0m0.048s
+[INFO]Test  ubuntu_22.04 - 3 , cached =  209514
+sha256:a50089555ab23eaf107087cdb78e80dfa1855c170505a667ec0900c5907f5df0
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 4  cached test ...
+
+real	0m2.925s
+user	0m0.036s
+sys	0m0.037s
+[INFO]Test  ubuntu_22.04 - 4 , cached =  211542
+sha256:0f78086126ec76885cce60f8717f6fa17e9c0ac760c956e8f0f715cf4664b109
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.04 - 5  cached test ...
+
+real	0m2.875s
+user	0m0.030s
+sys	0m0.043s
+[INFO]Test  ubuntu_22.04 - 5 , cached =  206278
+sha256:7518e485c850469c77de7306663d7f76e5b61e7a9be8286b24feae1e9b3ad53b
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  ubuntu_22.10  ...
+
+real	0m2.434s
+user	0m0.027s
+sys	0m0.050s
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 1  default test ...
+
+real	0m3.415s
+user	0m0.038s
+sys	0m0.030s
+[INFO]Test  ubuntu_22.10 - 1 , default =  242522
+sha256:9af0affac432c68f7df001106e98da6afbbf36101923e5e645722a3423be7de0
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 2  default test ...
+
+real	0m2.319s
+user	0m0.019s
+sys	0m0.050s
+[INFO]Test  ubuntu_22.10 - 2 , default =  166086
+sha256:08d5fa8dfe6f289b00c85358c727b93463a91bcbaf5a16a4773d47f234378fd9
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 3  default test ...
+
+real	0m2.912s
+user	0m0.022s
+sys	0m0.041s
+[INFO]Test  ubuntu_22.10 - 3 , default =  208733
+sha256:8dc03dfdce56c08e413e0c540f02cb2466021ff5c30630de498b776ea49c454a
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 4  default test ...
+
+real	0m2.996s
+user	0m0.051s
+sys	0m0.019s
+[INFO]Test  ubuntu_22.10 - 4 , default =  215981
+sha256:203eefa560d4a56bd1fdb7b3833f849540e999141629aa0ba6410056351be317
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 5  default test ...
+
+real	0m2.922s
+user	0m0.035s
+sys	0m0.031s
+[INFO]Test  ubuntu_22.10 - 5 , default =  208568
+sha256:5f79f2608ec5b25b52471bc7d1c2ddfd0a3accad4c0c1a6a4f35d734e0b924de
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 1  cached test ...
+
+real	0m3.648s
+user	0m0.028s
+sys	0m0.040s
+[INFO]Test  ubuntu_22.10 - 1 , cached =  265777
+sha256:b36ad48b4af2df7c4a544c726e8c40249c6366005bdd076f4a9a77fc0cb086c6
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 2  cached test ...
+
+real	0m11.483s
+user	0m0.037s
+sys	0m0.027s
+[INFO]Test  ubuntu_22.10 - 2 , cached =  819222
+sha256:0b9f2b0d1e4211d53bc793221fcf614e6941725f5c427b3d70ad13a6dd2ebf4e
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 3  cached test ...
+
+real	0m2.325s
+user	0m0.029s
+sys	0m0.038s
+[INFO]Test  ubuntu_22.10 - 3 , cached =  166785
+sha256:5bce14a7d75fc2de3897f289c5ceaf1828c031ec77b1c7e471d37075a0d9913c
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 4  cached test ...
+
+real	0m3.643s
+user	0m0.006s
+sys	0m0.065s
+[INFO]Test  ubuntu_22.10 - 4 , cached =  260600
+sha256:1fc530539a9cac1dc885c75ec9a273598c15994f5101280cfa02de3b1dbdb408
+[INFO]Clean the test image ...
+[INFO]Start  ubuntu_22.10 - 5  cached test ...
+
+real	0m3.391s
+user	0m0.040s
+sys	0m0.030s
+[INFO]Test  ubuntu_22.10 - 5 , cached =  242805
+sha256:280a4a0da0179f761d6a9a59be31e8d484ea25e201e0387ddab52f641a408d0f
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  zookeeper_3.6.3  ...
+
+real	0m54.041s
+user	0m0.038s
+sys	0m0.029s
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 1  default test ...
+
+real	0m25.236s
+user	0m0.014s
+sys	0m0.024s
+[INFO]Test  zookeeper_3.6.3 - 1 , default =  35687152
+sha256:b36009bfe753845b118db96fed0f252ef30de824996676ab2d862fa53230ce5a
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 2  default test ...
+
+real	0m25.669s
+user	0m0.017s
+sys	0m0.022s
+[INFO]Test  zookeeper_3.6.3 - 2 , default =  35775959
+sha256:35a1324d9a3cb3f1c5bf78add99fd3a395dafcaf89862f05cbd48f59eb6d032b
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 3  default test ...
+
+real	0m24.649s
+user	0m0.016s
+sys	0m0.017s
+[INFO]Test  zookeeper_3.6.3 - 3 , default =  35683160
+sha256:d7488ce3025c3c90dc78e9ef3a6492238852c2097f20a5c1d0dcf5b9b927b39b
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 4  default test ...
+
+real	0m24.581s
+user	0m0.017s
+sys	0m0.023s
+[INFO]Test  zookeeper_3.6.3 - 4 , default =  35672694
+sha256:62465917898edc05979d66f44deace91b48bbb7d73c2709ec490dc707682d6f1
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 5  default test ...
+
+real	0m24.027s
+user	0m0.027s
+sys	0m0.007s
+[INFO]Test  zookeeper_3.6.3 - 5 , default =  35707623
+sha256:1ff42f10457a79cbf10e6a5310a3b57819754fa5b432d7cb94e9e91ff7cafc4a
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 1  cached test ...
+
+real	0m20.613s
+user	0m0.010s
+sys	0m0.024s
+[INFO]Test  zookeeper_3.6.3 - 1 , cached =  10557357
+sha256:0c271e311d20d516b4439144d2a20c57855296a9a54d7b8c4e6a19d37e92d13b
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 2  cached test ...
+
+real	0m19.940s
+user	0m0.023s
+sys	0m0.019s
+[INFO]Test  zookeeper_3.6.3 - 2 , cached =  10514855
+sha256:ca801f8bc092206595793e7892c2876e583ad63387a47dfe091f6a3386a0f4c0
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 3  cached test ...
+
+real	0m20.784s
+user	0m0.021s
+sys	0m0.016s
+[INFO]Test  zookeeper_3.6.3 - 3 , cached =  10536354
+sha256:775a81939372d713e04c36374d07f3aa7c25c78000a58a6d85749f1d1d2fadae
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 4  cached test ...
+
+real	0m20.791s
+user	0m0.020s
+sys	0m0.021s
+[INFO]Test  zookeeper_3.6.3 - 4 , cached =  10520241
+sha256:0d38e664d7629c18f1aadc48e2a3ff8da5aaa689836756765c377c4f577c63f3
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.6.3 - 5  cached test ...
+
+real	0m28.036s
+user	0m0.020s
+sys	0m0.015s
+[INFO]Test  zookeeper_3.6.3 - 5 , cached =  11046465
+sha256:7008947ef43e3c8e0defa7704378a292b15114a25a7621f785ef2ee10aa33414
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  zookeeper_3.7.1  ...
+
+real	0m41.224s
+user	0m0.016s
+sys	0m0.019s
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 1  default test ...
+
+real	0m24.512s
+user	0m0.024s
+sys	0m0.014s
+[INFO]Test  zookeeper_3.7.1 - 1 , default =  35796404
+sha256:1584776aacbe3ee77fa4628ea086a437ed6f3edc70625ea6e7fa0f4df4166477
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 2  default test ...
+
+real	0m23.497s
+user	0m0.021s
+sys	0m0.016s
+[INFO]Test  zookeeper_3.7.1 - 2 , default =  35750187
+sha256:daa828bc005fbe72e8604303ddbf11adf8aee6dfaca9da30165923422331ca1e
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 3  default test ...
+
+real	0m23.894s
+user	0m0.030s
+sys	0m0.006s
+[INFO]Test  zookeeper_3.7.1 - 3 , default =  35855556
+sha256:3588be64dbf6dc1081ceabd09fc95dca4258299edd46a37a51c4c2953027901e
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 4  default test ...
+
+real	0m23.939s
+user	0m0.027s
+sys	0m0.011s
+[INFO]Test  zookeeper_3.7.1 - 4 , default =  35711239
+sha256:94b1387333963ebbdf6c749c038f1ee69f8d70fbf4a0374776d32664b9d658b3
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 5  default test ...
+
+real	0m24.056s
+user	0m0.019s
+sys	0m0.019s
+[INFO]Test  zookeeper_3.7.1 - 5 , default =  35685410
+sha256:5af1d009bb771d1cc4235b980e389c40990083164e444dabf01e5e59f4e9d08d
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 1  cached test ...
+
+real	0m23.217s
+user	0m0.015s
+sys	0m0.019s
+[INFO]Test  zookeeper_3.7.1 - 1 , cached =  10698395
+sha256:706ef3a714be3e4b1f943be9e861999cf65d645603e29e8472c97ba1d94b2473
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 2  cached test ...
+
+real	0m23.678s
+user	0m0.012s
+sys	0m0.026s
+[INFO]Test  zookeeper_3.7.1 - 2 , cached =  10738122
+sha256:31a59b47ab11538843717508025a46da67a11ddddf78ea499efa6074b05160cb
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 3  cached test ...
+
+real	0m20.151s
+user	0m0.022s
+sys	0m0.015s
+[INFO]Test  zookeeper_3.7.1 - 3 , cached =  10485860
+sha256:713d4dce8af4bc412a5bc97723407aaae54021d1925bf5330b88e3543c11dbbc
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 4  cached test ...
+
+real	0m19.462s
+user	0m0.025s
+sys	0m0.012s
+[INFO]Test  zookeeper_3.7.1 - 4 , cached =  10420463
+sha256:511c67ef233546503dc2aaa90accda0a6c13d29240f48e2bb44196528e48e985
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.7.1 - 5  cached test ...
+
+real	0m22.558s
+user	0m0.014s
+sys	0m0.020s
+[INFO]Test  zookeeper_3.7.1 - 5 , cached =  10641868
+sha256:bd2a0ab0ec975d57923919260334909180e8bd49afd5d6707396a2241a3ccbdf
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  zookeeper_3.8.0  ...
+
+real	0m39.600s
+user	0m0.010s
+sys	0m0.026s
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 1  default test ...
+
+real	0m25.780s
+user	0m0.021s
+sys	0m0.013s
+[INFO]Test  zookeeper_3.8.0 - 1 , default =  36459390
+sha256:84075ac5ea27f2648ca5d80c6e6a60275b2005686e10daddcdc76ced4d7084d1
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 2  default test ...
+
+real	0m23.121s
+user	0m0.051s
+sys	0m0.024s
+[INFO]Test  zookeeper_3.8.0 - 2 , default =  36254035
+sha256:5eb4a1efb568f7c5479603b39fdb0cdfcada8c21e4df63371e3a8e1f0e3ffe94
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 3  default test ...
+
+real	0m24.324s
+user	0m0.021s
+sys	0m0.016s
+[INFO]Test  zookeeper_3.8.0 - 3 , default =  36324010
+sha256:61b9fd4fe80f1043a1f27bf570529c6feded4c27c56dc1d277ed4636a02cca84
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 4  default test ...
+
+real	0m24.453s
+user	0m0.017s
+sys	0m0.017s
+[INFO]Test  zookeeper_3.8.0 - 4 , default =  36364959
+sha256:19d646a4e344adaabc2434965a8206afd87a8a48543a7c7a9733a29d07f81b43
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 5  default test ...
+
+real	0m23.856s
+user	0m0.017s
+sys	0m0.017s
+[INFO]Test  zookeeper_3.8.0 - 5 , default =  36280660
+sha256:84930a201d7f50ac9954ec1a29b40c46b88497b7e1e0139fa0cc0241b8db3b32
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 1  cached test ...
+
+real	0m20.436s
+user	0m0.018s
+sys	0m0.017s
+[INFO]Test  zookeeper_3.8.0 - 1 , cached =  10426609
+sha256:bdf506e72611ace9211793324ece674b9089b7397426ae1221c16476c3cf32af
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 2  cached test ...
+
+real	0m21.698s
+user	0m0.026s
+sys	0m0.012s
+[INFO]Test  zookeeper_3.8.0 - 2 , cached =  10535096
+sha256:50184a61f7a18559235509a0d763c5b31419bce37973865854c7c1c50521c144
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 3  cached test ...
+
+real	0m20.438s
+user	0m0.027s
+sys	0m0.011s
+[INFO]Test  zookeeper_3.8.0 - 3 , cached =  10473130
+sha256:982a0c2944d97a70aa142ad0b4304deeff55967e82a986a60ff7fdc78f4e3b9e
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 4  cached test ...
+
+real	0m20.775s
+user	0m0.023s
+sys	0m0.014s
+[INFO]Test  zookeeper_3.8.0 - 4 , cached =  10522826
+sha256:d9cd63d41f4d23373d5dcb236e633adc467adbd6a7f0fa2dacd241f308aeca2d
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_3.8.0 - 5  cached test ...
+
+real	0m21.173s
+user	0m0.022s
+sys	0m0.019s
+[INFO]Test  zookeeper_3.8.0 - 5 , cached =  10520761
+sha256:1ae11a69fd49b2be04dc577d41b51e6ffd2dde3197665a728db6e4d7fd8bca8b
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  zookeeper_latest  ...
+
+real	0m55.037s
+user	0m0.015s
+sys	0m0.022s
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 1  default test ...
+
+real	0m37.659s
+user	0m0.036s
+sys	0m0.013s
+[INFO]Test  zookeeper_latest - 1 , default =  46846470
+sha256:39f618fe9237057aab9afdc67ab9eb2d2ab2635bea9d5d9094b3183510fcb12d
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 2  default test ...
+
+real	0m38.502s
+user	0m0.015s
+sys	0m0.020s
+[INFO]Test  zookeeper_latest - 2 , default =  46978606
+sha256:3a2cd7dfbfa9df3e79aac647ea4e01f03e3c6adef22793fdc42fcc5dfb18bd73
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 3  default test ...
+
+real	0m39.653s
+user	0m0.024s
+sys	0m0.023s
+[INFO]Test  zookeeper_latest - 3 , default =  47012702
+sha256:62e5a630aa7efd08ff5d4ba367099332c70b5a0fc1958d1ad63476e6c280c25b
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 4  default test ...
+
+real	0m43.863s
+user	0m0.010s
+sys	0m0.026s
+[INFO]Test  zookeeper_latest - 4 , default =  47254735
+sha256:0ee4fa3ccfd4289963ab4c041a68c9c9fd2f89473dc9a64e1cccf4d87529d2e7
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 5  default test ...
+
+real	0m38.291s
+user	0m0.011s
+sys	0m0.021s
+[INFO]Test  zookeeper_latest - 5 , default =  46888181
+sha256:1f81adbe94708d1d2cb74f807163379a9467b629af9b03af25814c350d4e0d98
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 1  cached test ...
+
+real	0m36.295s
+user	0m0.012s
+sys	0m0.022s
+[INFO]Test  zookeeper_latest - 1 , cached =  26067923
+sha256:0b450c2fdbd5805fde83495d2c470ad2899fda58b33b3133abf382d509d339dc
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 2  cached test ...
+
+real	30m46.872s
+user	0m0.249s
+sys	0m0.049s
+[INFO]Test  zookeeper_latest - 2 , cached =  26226601
+sha256:bb5d0818c0ab53327e29acdcbad7d0a96b81b94f8cd9ee5ea5465618327dd906
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 3  cached test ...
+
+real	15m41.249s
+user	0m0.093s
+sys	0m0.082s
+[INFO]Test  zookeeper_latest - 3 , cached =  26118222
+sha256:c67130df4456598462e4170fa5f84b0d856cdef5c9a0af9b15d79aa0347faa8d
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 4  cached test ...
+
+real	0m36.161s
+user	0m0.010s
+sys	0m0.025s
+[INFO]Test  zookeeper_latest - 4 , cached =  26130819
+sha256:06a9199b54376479b7eec4e9df19aed9ed56c5a5a485f7522780949c89598582
+[INFO]Clean the test image ...
+[INFO]Start  zookeeper_latest - 5  cached test ...
+
+real	0m35.162s
+user	0m0.029s
+sys	0m0.010s
+[INFO]Test  zookeeper_latest - 5 , cached =  26047980
+sha256:b177918a2e3b9d6a7fc9ad3f72d428af7da946c6bf166bc9ee83626691ff30b7

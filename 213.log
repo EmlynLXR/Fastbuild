@@ -1,0 +1,221 @@
+Script started on 2023-02-13 11:43:11+0800
+]0;allen@allen-MS-7B53: ~/Desktop/fastbuild[01;32mallen@allen-MS-7B53[00m:[01;34m~/Desktop/fastbuild[00m$ bash ./test_quiet.sh 
+202.114.6.221
+[INFO]Clean all docker images before test ...
+[INFO]Warm up  bitnami_kafka_3.2.3  ...
+
+real	1m12.150s
+user	0m0.029s
+sys	0m0.059s
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 1  default test ...
+^C
+]0;allen@allen-MS-7B53: ~/Desktop/fastbuild[01;32mallen@allen-MS-7B53[00m:[01;34m~/Desktop/fastbuild[00m$ bash ./test_quiet.sh 
+202.114.6.221
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  bitnami_kafka_3.2.3 - 1  default test ...
+
+real	1m38.660s
+user	0m0.016s
+sys	0m0.038s
+[INFO]Test  bitnami_kafka_3.2.3 - 1 , default =  390858915
+sha256:429dbeb905e2a03e0b644a916f382c5a9de5bf80aaf8bc6729520bec19630a9e
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.2.3 - 1  cached test ...
+
+real	0m52.939s
+user	0m0.024s
+sys	0m0.030s
+[INFO]Test  bitnami_kafka_3.2.3 - 1 , cached =  24632676
+sha256:30f21b3dcb45912733291e1d6d633bcb7fef7c243903129ea3d2f2c5d8ca9c42
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  bitnami_kafka_3.3.1 - 1  default test ...
+
+real	1m34.217s
+user	0m0.025s
+sys	0m0.036s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , default =  391874814
+sha256:094b2eedc655032355a83f238378d8931a4a3ca95c3102887de4c5a21fe6b04e
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_kafka_3.3.1 - 1  cached test ...
+
+real	0m50.157s
+user	0m0.027s
+sys	0m0.027s
+[INFO]Test  bitnami_kafka_3.3.1 - 1 , cached =  24630698
+sha256:212af3018108545ebf71cd578348fef8703c03bb46e9bd9232692cf3cceb02e1
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  bitnami_spark_3.2.2 - 1  default test ...
+
+real	5m37.535s
+user	0m0.087s
+sys	0m0.036s
+[INFO]Test  bitnami_spark_3.2.2 - 1 , default =  785748961
+sha256:903bdfb37199b3f31d088805a567c6a63c9dafb2eae2db63f3e492b7223103c0
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.2 - 1  cached test ...
+
+real	5m22.689s
+user	0m0.072s
+sys	0m0.039s
+[INFO]Test  bitnami_spark_3.2.2 - 1 , cached =  24647659
+sha256:10b71b72d73e93492772bd038da92fc458a33f8c837b6afa828441df55126174
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  bitnami_spark_3.2.3 - 1  default test ...
+
+real	6m15.947s
+user	0m0.087s
+sys	0m0.044s
+[INFO]Test  bitnami_spark_3.2.3 - 1 , default =  785978100
+sha256:282743676c480f101402cb08c62d0e46588b3a0fdf42de1c101c895ecc5771fe
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_3.2.3 - 1  cached test ...
+
+real	5m32.515s
+user	0m0.045s
+sys	0m0.076s
+[INFO]Test  bitnami_spark_3.2.3 - 1 , cached =  24310632
+sha256:10c935814010f88d9b4088b510bc3c86dd55a73cc2a3342461f48a00e9210c7e
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  bitnami_spark_latest - 1  default test ...
+
+real	5m58.694s
+user	0m0.080s
+sys	0m0.037s
+[INFO]Test  bitnami_spark_latest - 1 , default =  815542108
+sha256:b9558d676e58cc6f1f35990f7277ebbc6c86ba77765c84a153bfda2cbd838cbe
+[INFO]Clean the test image ...
+[INFO]Start  bitnami_spark_latest - 1  cached test ...
+
+real	5m35.618s
+user	0m0.051s
+sys	0m0.040s
+[INFO]Test  bitnami_spark_latest - 1 , cached =  24317995
+sha256:8c88b69d3b09fc41f4d38240360bf182af7b32188405bba59a67480f399afecc
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  debian_10.13 - 1  default test ...
+
+real	0m9.878s
+user	0m0.041s
+sys	0m0.096s
+[INFO]Test  debian_10.13 - 1 , default =  86
+sha256:82943b82cd1696315b928db8e4fc1e360dd0d7a8ebd84808ab1749b1a4e2a0f1
+[INFO]Clean the test image ...
+[INFO]Start  debian_10.13 - 1  cached test ...
+
+real	0m13.036s
+user	0m0.028s
+sys	0m0.092s
+[INFO]Test  debian_10.13 - 1 , cached =  164
+sha256:64b8d2ad5da1bc0a0501c4ec582fcf9d45b0ea0b5aa8f86d3600f4a3b19be0f4
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  debian_11.5 - 1  default test ...
+
+real	0m12.188s
+user	0m0.038s
+sys	0m0.101s
+[INFO]Test  debian_11.5 - 1 , default =  328
+sha256:7673925f7d11c1b2bc98e44f4c7f49d84d5af42a305802dc295255f3073a38f2
+[INFO]Clean the test image ...
+[INFO]Start  debian_11.5 - 1  cached test ...
+
+real	0m16.162s
+user	0m0.052s
+sys	0m0.089s
+[INFO]Test  debian_11.5 - 1 , cached =  902
+sha256:5508fa70bd20dbceaaec402d7e5e1f46447e6858bd24fdc31226ab6210595eba
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  debian_stable_backports - 1  default test ...
+
+real	0m16.579s
+user	0m0.025s
+sys	0m0.025s
+[INFO]Test  debian_stable_backports - 1 , default =  57758055
+sha256:4e8d745590393cc378e3bdae1aaff2dd649dfeff1b8af65a50a614cb21372125
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_backports - 1  cached test ...
+
+real	0m1.517s
+user	0m0.017s
+sys	0m0.037s
+[INFO]Test  debian_stable_backports - 1 , cached =  0
+sha256:cf2d0288df4e8b262ca2c50e424c55abdedfc9b1e077afa0b41972423d1e44a8
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  debian_stable_slim - 1  default test ...
+
+real	0m5.465s
+user	0m0.019s
+sys	0m0.064s
+[INFO]Test  debian_stable_slim - 1 , default =  0
+sha256:6c49560e80d38aacf4d90047bac8ecdf16eeb5b724f5e100cb03124ff72d794e
+[INFO]Clean the test image ...
+[INFO]Start  debian_stable_slim - 1  cached test ...
+
+real	0m5.885s
+user	0m0.032s
+sys	0m0.048s
+[INFO]Test  debian_stable_slim - 1 , cached =  328
+sha256:906b2581ce796213261419bd0e8d90520bed80b7ed602c52955495f8814c2eff
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  flink_1.15.2 - 1  default test ...
+
+real	118m26.298s
+user	0m0.418s
+sys	0m0.531s
+[INFO]Test  flink_1.15.2 - 1 , default =  585593133
+sha256:0b565cf0a8e2247e217083b060bf01691b25dfd566550206db56dcccde0409d0
+[INFO]Clean the test image ...
+[INFO]Start  flink_1.15.2 - 1  cached test ...
+
+real	1m29.976s
+user	0m0.017s
+sys	0m0.037s
+[INFO]Test  flink_1.15.2 - 1 , cached =  27054288
+sha256:097228639f91201edc6b7b265ced4e8f25b217dabc2e432a23a7eb8bc5366c9e
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  flink_java8 - 1  default test ...
+
+real	7m43.709s
+user	0m0.070s
+sys	0m0.066s
+[INFO]Test  flink_java8 - 1 , default =  620718117
+sha256:a728e46a894baba762eaf4193103446eb4afd36d3481025d20321fa112001bb1
+[INFO]Clean the test image ...
+[INFO]Start  flink_java8 - 1  cached test ...
+
+real	1m0.941s
+user	0m0.028s
+sys	0m0.023s
+[INFO]Test  flink_java8 - 1 , cached =  26918489
+sha256:ef8486858749ebe442caefb5b7a4c83f39dbc77c0561ac4aa5fd9776e85ae68e
+[INFO]Clean all docker images before test ...
+[INFO]Clean the test image ...
+Error: No such image: test
+[INFO]Start  flink_latest - 1  default test ...
+^C
+]0;allen@allen-MS-7B53: ~/Desktop/fastbuild[01;32mallen@allen-MS-7B53[00m:[01;34m~/Desktop/fastbuild[00m$ exit
+exit
+
+Script done on 2023-02-13 15:19:58+0800

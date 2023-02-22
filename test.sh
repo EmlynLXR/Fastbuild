@@ -1,4 +1,5 @@
 #!/bin/bash
+# docker rmi test ; time docker build -q -t test -f Dockerfile . ; docker rmi test ; time docker build -q --build-arg http_proxy=http://202.114.6.221:8080 --build-arg HTTP_PROXY=http://202.114.6.221:8080 -t test -f Dockerfile .
 # set -x
 declare -i cache
 declare -i clean
@@ -6,17 +7,24 @@ declare -i loop
 host=`ifconfig enp1s0 | grep -w "inet" | awk '/inet/ {print $2}'`
 echo ${host}
 loop=1
+lists=('nginx_latest' 'openjdk_oraclelinux8' 'redis_7.0.5' 'zookeeper_latest') 
+# False
+# 'debian_11.5' 'ubuntu_22.10'
+# Not sure
+# 'bitnami_kafka_3.3.1' 'bitnami_spark_latest'
+# True
+# 'flink_latest' 'storm_latest'
 RUN(){
-    echo "[INFO]Clean all docker images before test ..."
-    re=`docker system prune -af`
+    # echo "[INFO]Clean all docker images before test ..."
+    # re=`docker system prune -af`
 
     # echo "[INFO]Warm up " $1 " ..."
     # re=`time docker build -q --build-arg http_proxy=http://${host}:8080 --build-arg HTTP_PROXY=http://${host}:8080 -t test -f Dockerfile .`
 
     for ((i=1; i<=${loop}; i++))do      
         while true;do
-            echo "[INFO]Clean the test image ..."
-            re=`docker rmi -f test`  
+            echo "[INFO]Clean all docker images before test ..."
+            re=`docker system prune -af` 
             echo "[INFO]Start " $1 "-" ${i} " default test ..."
             startTraffic1=`cat /proc/net/dev | grep enp | awk '{print $2}'`
             re=`time docker build -q -t test -f Dockerfile . `
@@ -33,8 +41,8 @@ RUN(){
 
     for ((i=1; i<=${loop}; i++))do      
         while true;do
-            echo "[INFO]Clean the test image ..."
-            re=`docker rmi -f test`
+            echo "[INFO]Clean all docker images before test ..."
+            re=`docker system prune -af` 
             echo "[INFO]Start " $1 "-" ${i} " cached test ..."
             startTraffic2=`cat /proc/net/dev | grep enp | awk '{print $2}'`
             re=`time docker build -q --build-arg http_proxy=http://${host}:8080 --build-arg HTTP_PROXY=http://${host}:8080 -t test -f Dockerfile .`
@@ -50,53 +58,11 @@ RUN(){
     done
 }
 
-RUNALL(){
-    for file in *;do
-        if [ -d ${file} ];then   #dir
-                cd ${file} # enter dir
-                if [ -f "Dockerfile" ];then
-                    RUN ${file} ${loop}
-                fi
-                cd ..
-        fi
-    done
-}
-
-RUNLatest(){
-    for file in *;do
-        if [ -d ${file} ];then   #dir
-                cd ${file} # enter dir
-                if [ -f "Dockerfile" ];then
-                    if [[ ${file} =~ "latest" ]];then
-                        RUN ${file} ${loop}
-                    fi
-                fi
-                cd ..
-        fi
-    done
-}
-# set -x
-if [ $# -eq 0 ]; then
-    #RUNALL
-    RUNLatest
-elif [ $# -eq 1 ]; then
-    if [ -d $1 ];then   #dir
-            cd $1 # enter dir
-            if [ -f "Dockerfile" ];then
-                RUN $1 ${loop}
-            fi
-            cd ..
-    else
-        loop=$1
-        RUNALL
+for file in ${lists[@]};do
+    echo ${file}
+    cd ${file} # enter dir
+    if [ -f "Dockerfile" ];then
+        RUN ${file} ${loop}
     fi
-else
-    loop=$2
-    if [ -d $1 ];then   #dir
-        cd $1 # enter dir
-        if [ -f "Dockerfile" ];then
-            RUN $1 ${loop}
-        fi
-        cd ..
-    fi
-fi
+    cd ..
+done

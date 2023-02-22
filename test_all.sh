@@ -11,30 +11,26 @@ RUN(){
     re=`docker system prune -af`
 
     echo "[INFO]Warm up " $1 " ..."
-    time docker build --build-arg http_proxy=http://${host}:8080 --build-arg HTTP_PROXY=http://${host}:8080 -t test -f Dockerfile .
+    time docker build -q --build-arg http_proxy=http://${host}:8080 --build-arg HTTP_PROXY=http://${host}:8080 -t test -f Dockerfile .
 
     for ((i=1; i<=${loop}; i++))do      
-        while true;do
-            echo "[INFO]Clean the test image ..."
-            re=`docker rmi -f test`  
-            echo "[INFO]Start " $1 "-" ${i} " default test ..."
-            startTraffic1=`cat /proc/net/dev | grep enp | awk '{print $2}'`
-            time docker build -t test -f Dockerfile . 
-            endTraffic1=`cat /proc/net/dev | grep enp | awk '{print $2}'`
-            echo "[INFO]Test " $1 "-" ${i} ", default = " $((endTraffic1 - startTraffic1)) 
-        done
+        echo "[INFO]Clean all docker images before test ..."
+        re=`docker system prune -af`
+        echo "[INFO]Start " $1 "-" ${i} " default test ..."
+        startTraffic1=`cat /proc/net/dev | grep enp | awk '{print $2}'`
+        time docker build -q -t test -f Dockerfile . 
+        endTraffic1=`cat /proc/net/dev | grep enp | awk '{print $2}'`
+        echo "[INFO]Test " $1 "-" ${i} ", default = " $((endTraffic1 - startTraffic1)) 
     done
 
     for ((i=1; i<=${loop}; i++))do      
-        while true;do
-            echo "[INFO]Clean the test image ..."
-            re=`docker rmi -f test`
-            echo "[INFO]Start " $1 "-" ${i} " cached test ..."
-            startTraffic2=`cat /proc/net/dev | grep enp | awk '{print $2}'`
-            time docker build --build-arg http_proxy=http://${host}:8080 --build-arg HTTP_PROXY=http://${host}:8080 -t test -f Dockerfile .
-            endTraffic2=`cat /proc/net/dev | grep enp | awk '{print $2}'`
-            echo "[INFO]Test " $1 "-" ${i} ", cached = " $((endTraffic2 - startTraffic2)) 
-        done
+        echo "[INFO]Clean all docker images before test ..."
+        re=`docker system prune -af`
+        echo "[INFO]Start " $1 "-" ${i} " cached test ..."
+        startTraffic2=`cat /proc/net/dev | grep enp | awk '{print $2}'`
+        time docker build -q --build-arg http_proxy=http://${host}:8080 --build-arg HTTP_PROXY=http://${host}:8080 -t test -f Dockerfile .
+        endTraffic2=`cat /proc/net/dev | grep enp | awk '{print $2}'`
+        echo "[INFO]Test " $1 "-" ${i} ", cached = " $((endTraffic2 - startTraffic2)) 
     done
 }
 
@@ -49,7 +45,10 @@ RUNALL(){
         fi
     done
 }
-
+# ./test.sh
+# ./test.sh 5
+# ./test.sh zookeeper_latest
+# ./test.sh zookeeper_latest 5
 # set -x
 if [ $# -eq 0 ]; then
     RUNALL
